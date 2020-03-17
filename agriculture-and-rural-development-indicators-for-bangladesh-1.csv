@@ -1,0 +1,1635 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bangladesh,BGD,2000,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1000
+Bangladesh,BGD,1999,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1080
+Bangladesh,BGD,1998,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1200
+Bangladesh,BGD,1997,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1300
+Bangladesh,BGD,1996,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1400
+Bangladesh,BGD,1995,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1550
+Bangladesh,BGD,1994,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1675
+Bangladesh,BGD,1993,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1800
+Bangladesh,BGD,1992,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1925
+Bangladesh,BGD,1991,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2050
+Bangladesh,BGD,1990,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2180
+Bangladesh,BGD,1989,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2300
+Bangladesh,BGD,1988,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2450
+Bangladesh,BGD,1987,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2580
+Bangladesh,BGD,1986,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2700
+Bangladesh,BGD,1985,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2800
+Bangladesh,BGD,1984,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2950
+Bangladesh,BGD,1983,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3075
+Bangladesh,BGD,1982,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3200
+Bangladesh,BGD,1981,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3350
+Bangladesh,BGD,1980,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3500
+Bangladesh,BGD,1979,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3500
+Bangladesh,BGD,1978,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3500
+Bangladesh,BGD,1977,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3454
+Bangladesh,BGD,1976,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3250
+Bangladesh,BGD,1975,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,3050
+Bangladesh,BGD,1974,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2860
+Bangladesh,BGD,1973,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2660
+Bangladesh,BGD,1972,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2470
+Bangladesh,BGD,1971,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2270
+Bangladesh,BGD,1970,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,2072
+Bangladesh,BGD,1969,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1500
+Bangladesh,BGD,1968,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1300
+Bangladesh,BGD,1967,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1100
+Bangladesh,BGD,1966,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,1000
+Bangladesh,BGD,1965,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,950
+Bangladesh,BGD,1964,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,900
+Bangladesh,BGD,1963,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,850
+Bangladesh,BGD,1962,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,800
+Bangladesh,BGD,1961,"Agricultural machinery, tractors",AG.AGR.TRAC.NO,750
+Bangladesh,BGD,2016,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,392.375929871128
+Bangladesh,BGD,2015,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,476.949740034662
+Bangladesh,BGD,2014,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,469.365656919907
+Bangladesh,BGD,2013,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,384.24735621339
+Bangladesh,BGD,2012,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,407.839934667211
+Bangladesh,BGD,2011,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,415.417160264004
+Bangladesh,BGD,2010,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,306.317985452129
+Bangladesh,BGD,2009,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,238.081662354463
+Bangladesh,BGD,2008,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,207.780972155673
+Bangladesh,BGD,2007,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,156.549104708778
+Bangladesh,BGD,2006,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,172.070811424231
+Bangladesh,BGD,2005,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,164.730200448999
+Bangladesh,BGD,2004,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,140.642912079016
+Bangladesh,BGD,2003,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,130.44109617226
+Bangladesh,BGD,2002,Fertilizer consumption (% of fertilizer production),AG.CON.FERT.PT.ZS,121.21157149108
+Bangladesh,BGD,2016,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,289.402271616143
+Bangladesh,BGD,2015,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,298.966396533185
+Bangladesh,BGD,2014,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,279.220237319077
+Bangladesh,BGD,2013,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,254.600156290701
+Bangladesh,BGD,2012,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,260.443285528031
+Bangladesh,BGD,2011,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,255.76452201094
+Bangladesh,BGD,2010,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,212.963932742909
+Bangladesh,BGD,2009,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,188.852873268343
+Bangladesh,BGD,2008,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,200.064077918749
+Bangladesh,BGD,2007,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,184.411079836233
+Bangladesh,BGD,2006,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,193.190101522843
+Bangladesh,BGD,2005,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,197.748704335735
+Bangladesh,BGD,2004,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,170.671374186418
+Bangladesh,BGD,2003,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,160.266893534273
+Bangladesh,BGD,2002,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,188.639161517024
+Bangladesh,BGD,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,91942.099609375
+Bangladesh,BGD,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,91622.40234375
+Bangladesh,BGD,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,90990
+Bangladesh,BGD,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,91080
+Bangladesh,BGD,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,91200
+Bangladesh,BGD,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,91280
+Bangladesh,BGD,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,92410
+Bangladesh,BGD,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,92460
+Bangladesh,BGD,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,92530
+Bangladesh,BGD,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,92660
+Bangladesh,BGD,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,92800
+Bangladesh,BGD,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,93110
+Bangladesh,BGD,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,93230
+Bangladesh,BGD,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,93280
+Bangladesh,BGD,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,93530
+Bangladesh,BGD,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,94030
+Bangladesh,BGD,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,94000
+Bangladesh,BGD,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,94860
+Bangladesh,BGD,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,94340
+Bangladesh,BGD,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,93650
+Bangladesh,BGD,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,93270
+Bangladesh,BGD,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,93740
+Bangladesh,BGD,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,93580
+Bangladesh,BGD,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,94460
+Bangladesh,BGD,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,95490
+Bangladesh,BGD,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,103200
+Bangladesh,BGD,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,103860
+Bangladesh,BGD,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,104430
+Bangladesh,BGD,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,104270
+Bangladesh,BGD,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,101150
+Bangladesh,BGD,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,100410
+Bangladesh,BGD,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,100270
+Bangladesh,BGD,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,100600
+Bangladesh,BGD,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,99640
+Bangladesh,BGD,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,99780
+Bangladesh,BGD,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,99810
+Bangladesh,BGD,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,99870
+Bangladesh,BGD,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,99830
+Bangladesh,BGD,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,99870
+Bangladesh,BGD,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,99910
+Bangladesh,BGD,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,99980
+Bangladesh,BGD,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,100040
+Bangladesh,BGD,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,99890
+Bangladesh,BGD,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,99890
+Bangladesh,BGD,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,99910
+Bangladesh,BGD,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,96950
+Bangladesh,BGD,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,96970
+Bangladesh,BGD,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,96750
+Bangladesh,BGD,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,96690
+Bangladesh,BGD,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,96950
+Bangladesh,BGD,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,96500
+Bangladesh,BGD,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,96370
+Bangladesh,BGD,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,95200
+Bangladesh,BGD,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,94800
+Bangladesh,BGD,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,94770
+Bangladesh,BGD,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,94800
+Bangladesh,BGD,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.6323266569678
+Bangladesh,BGD,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.3867268523853
+Bangladesh,BGD,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.900898824614
+Bangladesh,BGD,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.9700391795345
+Bangladesh,BGD,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.0622263194284
+Bangladesh,BGD,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.1236844126911
+Bangladesh,BGD,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.9917799800261
+Bangladesh,BGD,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.0301912883153
+Bangladesh,BGD,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.0839671199201
+Bangladesh,BGD,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.1838365214719
+Bangladesh,BGD,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.2913881846816
+Bangladesh,BGD,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.5295382960744
+Bangladesh,BGD,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.6217254359684
+Bangladesh,BGD,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.6601367442575
+Bangladesh,BGD,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.8521932857033
+Bangladesh,BGD,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.2363063685949
+Bangladesh,BGD,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.2132595836214
+Bangladesh,BGD,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.873934086195
+Bangladesh,BGD,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.4744564799877
+Bangladesh,BGD,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.9443804255973
+Bangladesh,BGD,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.6524544825997
+Bangladesh,BGD,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.0135207805178
+Bangladesh,BGD,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.8906045939925
+Bangladesh,BGD,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.5666436198817
+Bangladesh,BGD,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.3579165706384
+Bangladesh,BGD,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,79.2809403088269
+Bangladesh,BGD,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,79.7879695782438
+Bangladesh,BGD,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,80.2258584927403
+Bangladesh,BGD,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,80.102942306215
+Bangladesh,BGD,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,77.7060766689713
+Bangladesh,BGD,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,77.1375893062918
+Bangladesh,BGD,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,77.0300376430821
+Bangladesh,BGD,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,77.2835522777906
+Bangladesh,BGD,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.5460551586387
+Bangladesh,BGD,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.6536068218484
+Bangladesh,BGD,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.6766536068218
+Bangladesh,BGD,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7227471767688
+Bangladesh,BGD,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.6920181301375
+Bangladesh,BGD,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7227471767688
+Bangladesh,BGD,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7534762234002
+Bangladesh,BGD,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.807252055005
+Bangladesh,BGD,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.853345624952
+Bangladesh,BGD,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7381117000845
+Bangladesh,BGD,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7381117000845
+Bangladesh,BGD,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,76.7534762234002
+Bangladesh,BGD,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.4795267726819
+Bangladesh,BGD,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.4948912959975
+Bangladesh,BGD,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.3258815395252
+Bangladesh,BGD,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.2797879695783
+Bangladesh,BGD,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.4795267726819
+Bangladesh,BGD,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.1338249980794
+Bangladesh,BGD,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,74.0339555965276
+Bangladesh,BGD,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,73.1351309825613
+Bangladesh,BGD,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.827840516248
+Bangladesh,BGD,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.8047937312745
+Bangladesh,BGD,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,72.827840516248
+Bangladesh,BGD,2016,Arable land (hectares),AG.LND.ARBL.HA,7764209.9609375
+Bangladesh,BGD,2015,Arable land (hectares),AG.LND.ARBL.HA,7732240.234375
+Bangladesh,BGD,2014,Arable land (hectares),AG.LND.ARBL.HA,7669000
+Bangladesh,BGD,2013,Arable land (hectares),AG.LND.ARBL.HA,7678000
+Bangladesh,BGD,2012,Arable land (hectares),AG.LND.ARBL.HA,7670000
+Bangladesh,BGD,2011,Arable land (hectares),AG.LND.ARBL.HA,7678000
+Bangladesh,BGD,2010,Arable land (hectares),AG.LND.ARBL.HA,7791000
+Bangladesh,BGD,2009,Arable land (hectares),AG.LND.ARBL.HA,7796000
+Bangladesh,BGD,2008,Arable land (hectares),AG.LND.ARBL.HA,7803000
+Bangladesh,BGD,2007,Arable land (hectares),AG.LND.ARBL.HA,7816000
+Bangladesh,BGD,2006,Arable land (hectares),AG.LND.ARBL.HA,7880000
+Bangladesh,BGD,2005,Arable land (hectares),AG.LND.ARBL.HA,7911000
+Bangladesh,BGD,2004,Arable land (hectares),AG.LND.ARBL.HA,8143000
+Bangladesh,BGD,2003,Arable land (hectares),AG.LND.ARBL.HA,8228000
+Bangladesh,BGD,2002,Arable land (hectares),AG.LND.ARBL.HA,8253000
+Bangladesh,BGD,2001,Arable land (hectares),AG.LND.ARBL.HA,8303000
+Bangladesh,BGD,2000,Arable land (hectares),AG.LND.ARBL.HA,8350000
+Bangladesh,BGD,1999,Arable land (hectares),AG.LND.ARBL.HA,8436000
+Bangladesh,BGD,1998,Arable land (hectares),AG.LND.ARBL.HA,8454000
+Bangladesh,BGD,1997,Arable land (hectares),AG.LND.ARBL.HA,8390000
+Bangladesh,BGD,1996,Arable land (hectares),AG.LND.ARBL.HA,8357000
+Bangladesh,BGD,1995,Arable land (hectares),AG.LND.ARBL.HA,8404000
+Bangladesh,BGD,1994,Arable land (hectares),AG.LND.ARBL.HA,8408000
+Bangladesh,BGD,1993,Arable land (hectares),AG.LND.ARBL.HA,8506000
+Bangladesh,BGD,1992,Arable land (hectares),AG.LND.ARBL.HA,8609000
+Bangladesh,BGD,1991,Arable land (hectares),AG.LND.ARBL.HA,9385000
+Bangladesh,BGD,1990,Arable land (hectares),AG.LND.ARBL.HA,9456000
+Bangladesh,BGD,1989,Arable land (hectares),AG.LND.ARBL.HA,9553000
+Bangladesh,BGD,1988,Arable land (hectares),AG.LND.ARBL.HA,9537000
+Bangladesh,BGD,1987,Arable land (hectares),AG.LND.ARBL.HA,9235000
+Bangladesh,BGD,1986,Arable land (hectares),AG.LND.ARBL.HA,9161000
+Bangladesh,BGD,1985,Arable land (hectares),AG.LND.ARBL.HA,9152000
+Bangladesh,BGD,1984,Arable land (hectares),AG.LND.ARBL.HA,9185000
+Bangladesh,BGD,1983,Arable land (hectares),AG.LND.ARBL.HA,9089000
+Bangladesh,BGD,1982,Arable land (hectares),AG.LND.ARBL.HA,9104000
+Bangladesh,BGD,1981,Arable land (hectares),AG.LND.ARBL.HA,9109000
+Bangladesh,BGD,1980,Arable land (hectares),AG.LND.ARBL.HA,9121000
+Bangladesh,BGD,1979,Arable land (hectares),AG.LND.ARBL.HA,9118000
+Bangladesh,BGD,1978,Arable land (hectares),AG.LND.ARBL.HA,9125000
+Bangladesh,BGD,1977,Arable land (hectares),AG.LND.ARBL.HA,9131000
+Bangladesh,BGD,1976,Arable land (hectares),AG.LND.ARBL.HA,9138000
+Bangladesh,BGD,1975,Arable land (hectares),AG.LND.ARBL.HA,9144000
+Bangladesh,BGD,1974,Arable land (hectares),AG.LND.ARBL.HA,9131000
+Bangladesh,BGD,1973,Arable land (hectares),AG.LND.ARBL.HA,9131000
+Bangladesh,BGD,1972,Arable land (hectares),AG.LND.ARBL.HA,9133000
+Bangladesh,BGD,1971,Arable land (hectares),AG.LND.ARBL.HA,8837000
+Bangladesh,BGD,1970,Arable land (hectares),AG.LND.ARBL.HA,8837000
+Bangladesh,BGD,1969,Arable land (hectares),AG.LND.ARBL.HA,8810000
+Bangladesh,BGD,1968,Arable land (hectares),AG.LND.ARBL.HA,8829000
+Bangladesh,BGD,1967,Arable land (hectares),AG.LND.ARBL.HA,8843000
+Bangladesh,BGD,1966,Arable land (hectares),AG.LND.ARBL.HA,8798000
+Bangladesh,BGD,1965,Arable land (hectares),AG.LND.ARBL.HA,8777000
+Bangladesh,BGD,1964,Arable land (hectares),AG.LND.ARBL.HA,8640000
+Bangladesh,BGD,1963,Arable land (hectares),AG.LND.ARBL.HA,8605000
+Bangladesh,BGD,1962,Arable land (hectares),AG.LND.ARBL.HA,8597000
+Bangladesh,BGD,1961,Arable land (hectares),AG.LND.ARBL.HA,8605000
+Bangladesh,BGD,2016,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0491496402813171
+Bangladesh,BGD,2015,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0494843498918085
+Bangladesh,BGD,2014,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0496310620735998
+Bangladesh,BGD,2013,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0502603101779891
+Bangladesh,BGD,2012,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0507920759355177
+Bangladesh,BGD,2011,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0514356915385367
+Bangladesh,BGD,2010,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0527933410053422
+Bangladesh,BGD,2009,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0534247787920514
+Bangladesh,BGD,2008,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0540732825823387
+Bangladesh,BGD,2007,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0547874624976455
+Bangladesh,BGD,2006,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0559177884185418
+Bangladesh,BGD,2005,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0568991352244882
+Bangladesh,BGD,2004,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.059443843314351
+Bangladesh,BGD,2003,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0610423781368636
+Bangladesh,BGD,2002,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0622970956872067
+Bangladesh,BGD,2001,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0638256810341608
+Bangladesh,BGD,2000,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0654092148533219
+Bangladesh,BGD,1999,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0673857617831365
+Bangladesh,BGD,1998,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0689094067494294
+Bangladesh,BGD,1997,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0698232408429774
+Bangladesh,BGD,1996,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0710327652378074
+Bangladesh,BGD,1995,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0729704359462579
+Bangladesh,BGD,1994,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0745802093520052
+Bangladesh,BGD,1993,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0770815654270928
+Bangladesh,BGD,1992,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0797249925785098
+Bangladesh,BGD,1991,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0888738407846875
+Bangladesh,BGD,1990,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0916528130958378
+Bangladesh,BGD,1989,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0948701807390652
+Bangladesh,BGD,1988,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0971316277669961
+Bangladesh,BGD,1987,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0965285642027786
+Bangladesh,BGD,1986,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0983070677330331
+Bangladesh,BGD,1985,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.100832726054505
+Bangladesh,BGD,1984,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.10388330027145
+Bangladesh,BGD,1983,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.105511223003234
+Bangladesh,BGD,1982,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.108468596298054
+Bangladesh,BGD,1981,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.111401208658475
+Bangladesh,BGD,1980,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.114528607421662
+Bangladesh,BGD,1979,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.117607536633529
+Bangladesh,BGD,1978,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.120940969249688
+Bangladesh,BGD,1977,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.1242928741402
+Bangladesh,BGD,1976,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.127532398399992
+Bangladesh,BGD,1975,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.130504962720952
+Bangladesh,BGD,1974,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.132829551812784
+Bangladesh,BGD,1973,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.134999016078795
+Bangladesh,BGD,1972,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.137079224902761
+Bangladesh,BGD,1971,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.134850904753129
+Bangladesh,BGD,1970,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.137578367281526
+Bangladesh,BGD,1969,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.140555727992918
+Bangladesh,BGD,1968,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.144931452134357
+Bangladesh,BGD,1967,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.149794401551547
+Bangladesh,BGD,1966,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.153925141854143
+Bangladesh,BGD,1965,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.158472190143806
+Bangladesh,BGD,1964,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.160768963908782
+Bangladesh,BGD,1963,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.164840405465637
+Bangladesh,BGD,1962,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.169391815208958
+Bangladesh,BGD,1961,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.174321402031078
+Bangladesh,BGD,2016,Arable land (% of land area),AG.LND.ARBL.ZS,59.646692486268
+Bangladesh,BGD,2015,Arable land (% of land area),AG.LND.ARBL.ZS,59.4010926816855
+Bangladesh,BGD,2014,Arable land (% of land area),AG.LND.ARBL.ZS,58.9152646539141
+Bangladesh,BGD,2013,Arable land (% of land area),AG.LND.ARBL.ZS,58.9844050088346
+Bangladesh,BGD,2012,Arable land (% of land area),AG.LND.ARBL.ZS,58.9229469155719
+Bangladesh,BGD,2011,Arable land (% of land area),AG.LND.ARBL.ZS,58.9844050088346
+Bangladesh,BGD,2010,Arable land (% of land area),AG.LND.ARBL.ZS,59.8525005761696
+Bangladesh,BGD,2009,Arable land (% of land area),AG.LND.ARBL.ZS,59.8909118844588
+Bangladesh,BGD,2008,Arable land (% of land area),AG.LND.ARBL.ZS,59.9446877160636
+Bangladesh,BGD,2007,Arable land (% of land area),AG.LND.ARBL.ZS,60.0445571176154
+Bangladesh,BGD,2006,Arable land (% of land area),AG.LND.ARBL.ZS,60.5362218637167
+Bangladesh,BGD,2005,Arable land (% of land area),AG.LND.ARBL.ZS,60.7743719751095
+Bangladesh,BGD,2004,Arable land (% of land area),AG.LND.ARBL.ZS,62.5566566797265
+Bangladesh,BGD,2003,Arable land (% of land area),AG.LND.ARBL.ZS,63.2096489206422
+Bangladesh,BGD,2002,Arable land (% of land area),AG.LND.ARBL.ZS,63.401705462088
+Bangladesh,BGD,2001,Arable land (% of land area),AG.LND.ARBL.ZS,63.7858185449796
+Bangladesh,BGD,2000,Arable land (% of land area),AG.LND.ARBL.ZS,64.1468848428977
+Bangladesh,BGD,1999,Arable land (% of land area),AG.LND.ARBL.ZS,64.8075593454713
+Bangladesh,BGD,1998,Arable land (% of land area),AG.LND.ARBL.ZS,64.9458400553123
+Bangladesh,BGD,1997,Arable land (% of land area),AG.LND.ARBL.ZS,64.454175309211
+Bangladesh,BGD,1996,Arable land (% of land area),AG.LND.ARBL.ZS,64.2006606745026
+Bangladesh,BGD,1995,Arable land (% of land area),AG.LND.ARBL.ZS,64.5617269724207
+Bangladesh,BGD,1994,Arable land (% of land area),AG.LND.ARBL.ZS,64.592456019052
+Bangladesh,BGD,1993,Arable land (% of land area),AG.LND.ARBL.ZS,65.3453176615196
+Bangladesh,BGD,1992,Arable land (% of land area),AG.LND.ARBL.ZS,66.1365906122763
+Bangladesh,BGD,1991,Arable land (% of land area),AG.LND.ARBL.ZS,72.0980256587539
+Bangladesh,BGD,1990,Arable land (% of land area),AG.LND.ARBL.ZS,72.64346623646
+Bangladesh,BGD,1989,Arable land (% of land area),AG.LND.ARBL.ZS,73.3886456172697
+Bangladesh,BGD,1988,Arable land (% of land area),AG.LND.ARBL.ZS,73.2657294307444
+Bangladesh,BGD,1987,Arable land (% of land area),AG.LND.ARBL.ZS,70.9456864100791
+Bangladesh,BGD,1986,Arable land (% of land area),AG.LND.ARBL.ZS,70.3771990473996
+Bangladesh,BGD,1985,Arable land (% of land area),AG.LND.ARBL.ZS,70.3080586924791
+Bangladesh,BGD,1984,Arable land (% of land area),AG.LND.ARBL.ZS,70.5615733271875
+Bangladesh,BGD,1983,Arable land (% of land area),AG.LND.ARBL.ZS,69.8240762080356
+Bangladesh,BGD,1982,Arable land (% of land area),AG.LND.ARBL.ZS,69.9393101329031
+Bangladesh,BGD,1981,Arable land (% of land area),AG.LND.ARBL.ZS,69.9777214411923
+Bangladesh,BGD,1980,Arable land (% of land area),AG.LND.ARBL.ZS,70.0699085810863
+Bangladesh,BGD,1979,Arable land (% of land area),AG.LND.ARBL.ZS,70.0468617961128
+Bangladesh,BGD,1978,Arable land (% of land area),AG.LND.ARBL.ZS,70.1006376277176
+Bangladesh,BGD,1977,Arable land (% of land area),AG.LND.ARBL.ZS,70.1467311976646
+Bangladesh,BGD,1976,Arable land (% of land area),AG.LND.ARBL.ZS,70.2005070292694
+Bangladesh,BGD,1975,Arable land (% of land area),AG.LND.ARBL.ZS,70.2466005992164
+Bangladesh,BGD,1974,Arable land (% of land area),AG.LND.ARBL.ZS,70.1467311976646
+Bangladesh,BGD,1973,Arable land (% of land area),AG.LND.ARBL.ZS,70.1467311976646
+Bangladesh,BGD,1972,Arable land (% of land area),AG.LND.ARBL.ZS,70.1620957209803
+Bangladesh,BGD,1971,Arable land (% of land area),AG.LND.ARBL.ZS,67.888146270262
+Bangladesh,BGD,1970,Arable land (% of land area),AG.LND.ARBL.ZS,67.888146270262
+Bangladesh,BGD,1969,Arable land (% of land area),AG.LND.ARBL.ZS,67.6807252055005
+Bangladesh,BGD,1968,Arable land (% of land area),AG.LND.ARBL.ZS,67.8266881769993
+Bangladesh,BGD,1967,Arable land (% of land area),AG.LND.ARBL.ZS,67.934239840209
+Bangladesh,BGD,1966,Arable land (% of land area),AG.LND.ARBL.ZS,67.5885380656065
+Bangladesh,BGD,1965,Arable land (% of land area),AG.LND.ARBL.ZS,67.427210570792
+Bangladesh,BGD,1964,Arable land (% of land area),AG.LND.ARBL.ZS,66.374740723669
+Bangladesh,BGD,1963,Arable land (% of land area),AG.LND.ARBL.ZS,66.1058615656449
+Bangladesh,BGD,1962,Arable land (% of land area),AG.LND.ARBL.ZS,66.0444034723823
+Bangladesh,BGD,1961,Arable land (% of land area),AG.LND.ARBL.ZS,66.1058615656449
+Bangladesh,BGD,2017,Land under cereal production (hectares),AG.LND.CREL.HA,12090129
+Bangladesh,BGD,2016,Land under cereal production (hectares),AG.LND.CREL.HA,11793602
+Bangladesh,BGD,2015,Land under cereal production (hectares),AG.LND.CREL.HA,12156367
+Bangladesh,BGD,2014,Land under cereal production (hectares),AG.LND.CREL.HA,12165112
+Bangladesh,BGD,2013,Land under cereal production (hectares),AG.LND.CREL.HA,12056374
+Bangladesh,BGD,2012,Land under cereal production (hectares),AG.LND.CREL.HA,12011654
+Bangladesh,BGD,2011,Land under cereal production (hectares),AG.LND.CREL.HA,12090666
+Bangladesh,BGD,2010,Land under cereal production (hectares),AG.LND.CREL.HA,12093951
+Bangladesh,BGD,2009,Land under cereal production (hectares),AG.LND.CREL.HA,11909888
+Bangladesh,BGD,2008,Land under cereal production (hectares),AG.LND.CREL.HA,11930855
+Bangladesh,BGD,2007,Land under cereal production (hectares),AG.LND.CREL.HA,11152085
+Bangladesh,BGD,2006,Land under cereal production (hectares),AG.LND.CREL.HA,11178034
+Bangladesh,BGD,2005,Land under cereal production (hectares),AG.LND.CREL.HA,11176338
+Bangladesh,BGD,2004,Land under cereal production (hectares),AG.LND.CREL.HA,10978274
+Bangladesh,BGD,2003,Land under cereal production (hectares),AG.LND.CREL.HA,11500907
+Bangladesh,BGD,2002,Land under cereal production (hectares),AG.LND.CREL.HA,11588093
+Bangladesh,BGD,2001,Land under cereal production (hectares),AG.LND.CREL.HA,11485595
+Bangladesh,BGD,2000,Land under cereal production (hectares),AG.LND.CREL.HA,11672247
+Bangladesh,BGD,1999,Land under cereal production (hectares),AG.LND.CREL.HA,11680974
+Bangladesh,BGD,1998,Land under cereal production (hectares),AG.LND.CREL.HA,11020640
+Bangladesh,BGD,1997,Land under cereal production (hectares),AG.LND.CREL.HA,11062180
+Bangladesh,BGD,1996,Land under cereal production (hectares),AG.LND.CREL.HA,10994172
+Bangladesh,BGD,1995,Land under cereal production (hectares),AG.LND.CREL.HA,10683381
+Bangladesh,BGD,1994,Land under cereal production (hectares),AG.LND.CREL.HA,10632902
+Bangladesh,BGD,1993,Land under cereal production (hectares),AG.LND.CREL.HA,10642068
+Bangladesh,BGD,1992,Land under cereal production (hectares),AG.LND.CREL.HA,10860774
+Bangladesh,BGD,1991,Land under cereal production (hectares),AG.LND.CREL.HA,10954903
+Bangladesh,BGD,1990,Land under cereal production (hectares),AG.LND.CREL.HA,11140604
+Bangladesh,BGD,1989,Land under cereal production (hectares),AG.LND.CREL.HA,11153325
+Bangladesh,BGD,1988,Land under cereal production (hectares),AG.LND.CREL.HA,10935858
+Bangladesh,BGD,1987,Land under cereal production (hectares),AG.LND.CREL.HA,11036881
+Bangladesh,BGD,1986,Land under cereal production (hectares),AG.LND.CREL.HA,11304320
+Bangladesh,BGD,1985,Land under cereal production (hectares),AG.LND.CREL.HA,11233180
+Bangladesh,BGD,1984,Land under cereal production (hectares),AG.LND.CREL.HA,10895119
+Bangladesh,BGD,1983,Land under cereal production (hectares),AG.LND.CREL.HA,10423553
+Bangladesh,BGD,1982,Land under cereal production (hectares),AG.LND.CREL.HA,11181582
+Bangladesh,BGD,1981,Land under cereal production (hectares),AG.LND.CREL.HA,11143697
+Bangladesh,BGD,1980,Land under cereal production (hectares),AG.LND.CREL.HA,10817980
+Bangladesh,BGD,1979,Land under cereal production (hectares),AG.LND.CREL.HA,10507816
+Bangladesh,BGD,1978,Land under cereal production (hectares),AG.LND.CREL.HA,10371255
+Bangladesh,BGD,1977,Land under cereal production (hectares),AG.LND.CREL.HA,10278378
+Bangladesh,BGD,1976,Land under cereal production (hectares),AG.LND.CREL.HA,10123512
+Bangladesh,BGD,1975,Land under cereal production (hectares),AG.LND.CREL.HA,10549360
+Bangladesh,BGD,1974,Land under cereal production (hectares),AG.LND.CREL.HA,10012328
+Bangladesh,BGD,1973,Land under cereal production (hectares),AG.LND.CREL.HA,10094822
+Bangladesh,BGD,1972,Land under cereal production (hectares),AG.LND.CREL.HA,9857487
+Bangladesh,BGD,1971,Land under cereal production (hectares),AG.LND.CREL.HA,9531242
+Bangladesh,BGD,1970,Land under cereal production (hectares),AG.LND.CREL.HA,10146201
+Bangladesh,BGD,1969,Land under cereal production (hectares),AG.LND.CREL.HA,10545400
+Bangladesh,BGD,1968,Land under cereal production (hectares),AG.LND.CREL.HA,9931197
+Bangladesh,BGD,1967,Land under cereal production (hectares),AG.LND.CREL.HA,10036709
+Bangladesh,BGD,1966,Land under cereal production (hectares),AG.LND.CREL.HA,9208509
+Bangladesh,BGD,1965,Land under cereal production (hectares),AG.LND.CREL.HA,9492394
+Bangladesh,BGD,1964,Land under cereal production (hectares),AG.LND.CREL.HA,9364054
+Bangladesh,BGD,1963,Land under cereal production (hectares),AG.LND.CREL.HA,9170275
+Bangladesh,BGD,1962,Land under cereal production (hectares),AG.LND.CREL.HA,8855818
+Bangladesh,BGD,1961,Land under cereal production (hectares),AG.LND.CREL.HA,8639332
+Bangladesh,BGD,2016,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.37627717600061
+Bangladesh,BGD,2015,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.37627717600061
+Bangladesh,BGD,2014,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.37627717600061
+Bangladesh,BGD,2013,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.37627717600061
+Bangladesh,BGD,2012,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2011,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2010,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2009,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2008,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2007,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.52992240915726
+Bangladesh,BGD,2006,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.14580932626565
+Bangladesh,BGD,2005,Permanent cropland (% of land area),AG.LND.CROP.ZS,6.14580932626565
+Bangladesh,BGD,2004,Permanent cropland (% of land area),AG.LND.CROP.ZS,4.4557117615426
+Bangladesh,BGD,2003,Permanent cropland (% of land area),AG.LND.CROP.ZS,3.84113082891603
+Bangladesh,BGD,2002,Permanent cropland (% of land area),AG.LND.CROP.ZS,3.84113082891603
+Bangladesh,BGD,2001,Permanent cropland (% of land area),AG.LND.CROP.ZS,3.84113082891603
+Bangladesh,BGD,2000,Permanent cropland (% of land area),AG.LND.CROP.ZS,3.45701774602443
+Bangladesh,BGD,1999,Permanent cropland (% of land area),AG.LND.CROP.ZS,3.45701774602443
+Bangladesh,BGD,1998,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.91925942997619
+Bangladesh,BGD,1997,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.88084812168702
+Bangladesh,BGD,1996,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.84243681339786
+Bangladesh,BGD,1995,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.84243681339786
+Bangladesh,BGD,1994,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.68879158024122
+Bangladesh,BGD,1993,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.6119689636629
+Bangladesh,BGD,1992,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.6119689636629
+Bangladesh,BGD,1991,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.57355765537374
+Bangladesh,BGD,1990,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.53514634708458
+Bangladesh,BGD,1989,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.2278558807713
+Bangladesh,BGD,1988,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.2278558807713
+Bangladesh,BGD,1987,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.15103326419298
+Bangladesh,BGD,1986,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.15103326419298
+Bangladesh,BGD,1985,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.11262195590382
+Bangladesh,BGD,1984,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.11262195590382
+Bangladesh,BGD,1983,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.11262195590382
+Bangladesh,BGD,1982,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.10493969424599
+Bangladesh,BGD,1981,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.08957517093032
+Bangladesh,BGD,1980,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.04348160098333
+Bangladesh,BGD,1979,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.0357993393255
+Bangladesh,BGD,1978,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.012752554352
+Bangladesh,BGD,1977,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.99738803103634
+Bangladesh,BGD,1976,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.99738803103634
+Bangladesh,BGD,1975,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.99738803103634
+Bangladesh,BGD,1974,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.98202350772067
+Bangladesh,BGD,1973,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.98202350772067
+Bangladesh,BGD,1972,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.98202350772067
+Bangladesh,BGD,1971,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.98202350772067
+Bangladesh,BGD,1970,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.99738803103634
+Bangladesh,BGD,1969,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.0357993393255
+Bangladesh,BGD,1968,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.8437427978797
+Bangladesh,BGD,1967,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.93592993777368
+Bangladesh,BGD,1966,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.93592993777368
+Bangladesh,BGD,1965,Permanent cropland (% of land area),AG.LND.CROP.ZS,1.99738803103634
+Bangladesh,BGD,1964,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.15103326419298
+Bangladesh,BGD,1963,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.11262195590382
+Bangladesh,BGD,1962,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.15103326419298
+Bangladesh,BGD,1961,Permanent cropland (% of land area),AG.LND.CROP.ZS,2.11262195590382
+Bangladesh,BGD,2010,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,12137.62109
+Bangladesh,BGD,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,12137.62109
+Bangladesh,BGD,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,12137.62109
+Bangladesh,BGD,2010,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,8.989830464
+Bangladesh,BGD,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,8.989830464
+Bangladesh,BGD,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,8.989830464
+Bangladesh,BGD,2016,Forest area (sq. km),AG.LND.FRST.K2,14264.0002441406
+Bangladesh,BGD,2015,Forest area (sq. km),AG.LND.FRST.K2,14290
+Bangladesh,BGD,2014,Forest area (sq. km),AG.LND.FRST.K2,14315.9997558594
+Bangladesh,BGD,2013,Forest area (sq. km),AG.LND.FRST.K2,14341.9995117188
+Bangladesh,BGD,2012,Forest area (sq. km),AG.LND.FRST.K2,14368.0004882813
+Bangladesh,BGD,2011,Forest area (sq. km),AG.LND.FRST.K2,14394.0002441406
+Bangladesh,BGD,2010,Forest area (sq. km),AG.LND.FRST.K2,14420
+Bangladesh,BGD,2009,Forest area (sq. km),AG.LND.FRST.K2,14445.9997558594
+Bangladesh,BGD,2008,Forest area (sq. km),AG.LND.FRST.K2,14471.9995117188
+Bangladesh,BGD,2007,Forest area (sq. km),AG.LND.FRST.K2,14498.0004882813
+Bangladesh,BGD,2006,Forest area (sq. km),AG.LND.FRST.K2,14524.0002441406
+Bangladesh,BGD,2005,Forest area (sq. km),AG.LND.FRST.K2,14550
+Bangladesh,BGD,2004,Forest area (sq. km),AG.LND.FRST.K2,14575.9997558594
+Bangladesh,BGD,2003,Forest area (sq. km),AG.LND.FRST.K2,14601.9995117188
+Bangladesh,BGD,2002,Forest area (sq. km),AG.LND.FRST.K2,14628.0004882813
+Bangladesh,BGD,2001,Forest area (sq. km),AG.LND.FRST.K2,14654.0002441406
+Bangladesh,BGD,2000,Forest area (sq. km),AG.LND.FRST.K2,14680
+Bangladesh,BGD,1999,Forest area (sq. km),AG.LND.FRST.K2,14705.9997558594
+Bangladesh,BGD,1998,Forest area (sq. km),AG.LND.FRST.K2,14731.9995117188
+Bangladesh,BGD,1997,Forest area (sq. km),AG.LND.FRST.K2,14758.0004882813
+Bangladesh,BGD,1996,Forest area (sq. km),AG.LND.FRST.K2,14784.0002441406
+Bangladesh,BGD,1995,Forest area (sq. km),AG.LND.FRST.K2,14810
+Bangladesh,BGD,1994,Forest area (sq. km),AG.LND.FRST.K2,14835.9997558594
+Bangladesh,BGD,1993,Forest area (sq. km),AG.LND.FRST.K2,14861.9995117188
+Bangladesh,BGD,1992,Forest area (sq. km),AG.LND.FRST.K2,14888.0004882813
+Bangladesh,BGD,1991,Forest area (sq. km),AG.LND.FRST.K2,14914.0002441406
+Bangladesh,BGD,1990,Forest area (sq. km),AG.LND.FRST.K2,14940
+Bangladesh,BGD,2016,Forest area (% of land area),AG.LND.FRST.ZS,10.9579782162869
+Bangladesh,BGD,2015,Forest area (% of land area),AG.LND.FRST.ZS,10.977951909042
+Bangladesh,BGD,2014,Forest area (% of land area),AG.LND.FRST.ZS,10.9979256017972
+Bangladesh,BGD,2013,Forest area (% of land area),AG.LND.FRST.ZS,11.0178992945524
+Bangladesh,BGD,2012,Forest area (% of land area),AG.LND.FRST.ZS,11.0378739250836
+Bangladesh,BGD,2011,Forest area (% of land area),AG.LND.FRST.ZS,11.0578476178387
+Bangladesh,BGD,2010,Forest area (% of land area),AG.LND.FRST.ZS,11.0778213105938
+Bangladesh,BGD,2009,Forest area (% of land area),AG.LND.FRST.ZS,11.097795003349
+Bangladesh,BGD,2008,Forest area (% of land area),AG.LND.FRST.ZS,11.1177686961042
+Bangladesh,BGD,2007,Forest area (% of land area),AG.LND.FRST.ZS,11.1377433266354
+Bangladesh,BGD,2006,Forest area (% of land area),AG.LND.FRST.ZS,11.1577170193905
+Bangladesh,BGD,2005,Forest area (% of land area),AG.LND.FRST.ZS,11.1776907121457
+Bangladesh,BGD,2004,Forest area (% of land area),AG.LND.FRST.ZS,11.1976644049008
+Bangladesh,BGD,2003,Forest area (% of land area),AG.LND.FRST.ZS,11.217638097656
+Bangladesh,BGD,2002,Forest area (% of land area),AG.LND.FRST.ZS,11.2376127281872
+Bangladesh,BGD,2001,Forest area (% of land area),AG.LND.FRST.ZS,11.2575864209423
+Bangladesh,BGD,2000,Forest area (% of land area),AG.LND.FRST.ZS,11.2775601136975
+Bangladesh,BGD,1999,Forest area (% of land area),AG.LND.FRST.ZS,11.2975338064526
+Bangladesh,BGD,1998,Forest area (% of land area),AG.LND.FRST.ZS,11.3175074992078
+Bangladesh,BGD,1997,Forest area (% of land area),AG.LND.FRST.ZS,11.337482129739
+Bangladesh,BGD,1996,Forest area (% of land area),AG.LND.FRST.ZS,11.3574558224941
+Bangladesh,BGD,1995,Forest area (% of land area),AG.LND.FRST.ZS,11.3774295152493
+Bangladesh,BGD,1994,Forest area (% of land area),AG.LND.FRST.ZS,11.3974032080045
+Bangladesh,BGD,1993,Forest area (% of land area),AG.LND.FRST.ZS,11.4173769007596
+Bangladesh,BGD,1992,Forest area (% of land area),AG.LND.FRST.ZS,11.4373515312908
+Bangladesh,BGD,1991,Forest area (% of land area),AG.LND.FRST.ZS,11.4573252240459
+Bangladesh,BGD,1990,Forest area (% of land area),AG.LND.FRST.ZS,11.4772989168011
+Bangladesh,BGD,2016,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,59.7114925950658
+Bangladesh,BGD,2015,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,59.4614402224483
+Bangladesh,BGD,2014,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,59.3691614463128
+Bangladesh,BGD,2013,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,58.9920948616601
+Bangladesh,BGD,2006,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,52.6185344827586
+Bangladesh,BGD,2005,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,51.1223284287402
+Bangladesh,BGD,2004,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS,51.346133218921
+Bangladesh,BGD,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,2666
+Bangladesh,BGD,2018,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2017,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2016,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2015,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2014,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2013,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2012,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2011,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2010,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2009,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2008,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2007,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2006,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2005,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2004,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2003,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2002,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2001,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2000,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1999,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1998,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1997,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1996,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1995,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1994,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1993,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1992,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1991,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1990,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1989,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1988,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1987,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1986,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1985,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1984,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1983,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1982,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1981,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1980,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1979,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1978,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1977,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1976,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1975,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1974,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1973,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1972,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1971,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1970,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1969,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1968,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1967,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1966,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1965,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1964,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1963,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1962,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,1961,Land area (sq. km),AG.LND.TOTL.K2,130170
+Bangladesh,BGD,2010,Rural land area (sq. km),AG.LND.TOTL.RU.K2,123889.625
+Bangladesh,BGD,2000,Rural land area (sq. km),AG.LND.TOTL.RU.K2,123889.625
+Bangladesh,BGD,1990,Rural land area (sq. km),AG.LND.TOTL.RU.K2,123889.625
+Bangladesh,BGD,2000,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.19760479041916
+Bangladesh,BGD,1999,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.28022759601707
+Bangladesh,BGD,1998,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.4194464158978
+Bangladesh,BGD,1997,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.54946364719905
+Bangladesh,BGD,1996,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.67524231183439
+Bangladesh,BGD,1995,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.84435982865302
+Bangladesh,BGD,1994,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.99215033301618
+Bangladesh,BGD,1993,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.11615330355043
+Bangladesh,BGD,1992,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.23603205947264
+Bangladesh,BGD,1991,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.18433670751199
+Bangladesh,BGD,1990,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.30541455160744
+Bangladesh,BGD,1989,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.40762064273003
+Bangladesh,BGD,1988,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.5689420153088
+Bangladesh,BGD,1987,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.79371954520845
+Bangladesh,BGD,1986,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.94727649819889
+Bangladesh,BGD,1985,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.05944055944056
+Bangladesh,BGD,1984,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.21175830157866
+Bangladesh,BGD,1983,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.38321047419958
+Bangladesh,BGD,1982,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.51493848857645
+Bangladesh,BGD,1981,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.67768141398617
+Bangladesh,BGD,1980,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.83729854182655
+Bangladesh,BGD,1979,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.83856108795789
+Bangladesh,BGD,1978,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.83561643835616
+Bangladesh,BGD,1977,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.78271821268207
+Bangladesh,BGD,1976,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.55657693149486
+Bangladesh,BGD,1975,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.33552055993001
+Bangladesh,BGD,1974,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,3.13218705508707
+Bangladesh,BGD,1973,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.91315299529077
+Bangladesh,BGD,1972,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.70447826563013
+Bangladesh,BGD,1971,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.56874504922485
+Bangladesh,BGD,1970,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,2.34468711101052
+Bangladesh,BGD,1969,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.70261066969353
+Bangladesh,BGD,1968,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.47242043266508
+Bangladesh,BGD,1967,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.2439217460138
+Bangladesh,BGD,1966,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.13662195953626
+Bangladesh,BGD,1965,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.08237438760396
+Bangladesh,BGD,1964,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,1.04166666666667
+Bangladesh,BGD,1963,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.987797791981406
+Bangladesh,BGD,1962,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.9305571711062
+Bangladesh,BGD,1961,"Agricultural machinery, tractors per 100 sq. km of arable land",AG.LND.TRAC.ZS,0.871586287042417
+Bangladesh,BGD,2017,Cereal production (metric tons),AG.PRD.CREL.MT,53332244
+Bangladesh,BGD,2016,Cereal production (metric tons),AG.PRD.CREL.MT,54262297
+Bangladesh,BGD,2015,Cereal production (metric tons),AG.PRD.CREL.MT,55438379
+Bangladesh,BGD,2014,Cereal production (metric tons),AG.PRD.CREL.MT,55241123
+Bangladesh,BGD,2013,Cereal production (metric tons),AG.PRD.CREL.MT,54357477
+Bangladesh,BGD,2012,Cereal production (metric tons),AG.PRD.CREL.MT,52801014
+Bangladesh,BGD,2011,Cereal production (metric tons),AG.PRD.CREL.MT,52628364
+Bangladesh,BGD,2010,Cereal production (metric tons),AG.PRD.CREL.MT,51862850
+Bangladesh,BGD,2009,Cereal production (metric tons),AG.PRD.CREL.MT,49735853
+Bangladesh,BGD,2008,Cereal production (metric tons),AG.PRD.CREL.MT,48946800
+Bangladesh,BGD,2007,Cereal production (metric tons),AG.PRD.CREL.MT,44841300
+Bangladesh,BGD,2006,Cereal production (metric tons),AG.PRD.CREL.MT,42044685
+Bangladesh,BGD,2005,Cereal production (metric tons),AG.PRD.CREL.MT,41146756
+Bangladesh,BGD,2004,Cereal production (metric tons),AG.PRD.CREL.MT,37759046
+Bangladesh,BGD,2003,Cereal production (metric tons),AG.PRD.CREL.MT,40015280
+Bangladesh,BGD,2002,Cereal production (metric tons),AG.PRD.CREL.MT,39341455
+Bangladesh,BGD,2001,Cereal production (metric tons),AG.PRD.CREL.MT,38029335
+Bangladesh,BGD,2000,Cereal production (metric tons),AG.PRD.CREL.MT,39503000
+Bangladesh,BGD,1999,Cereal production (metric tons),AG.PRD.CREL.MT,36403000
+Bangladesh,BGD,1998,Cereal production (metric tons),AG.PRD.CREL.MT,31577495
+Bangladesh,BGD,1997,Cereal production (metric tons),AG.PRD.CREL.MT,29673515
+Bangladesh,BGD,1996,Cereal production (metric tons),AG.PRD.CREL.MT,29620075
+Bangladesh,BGD,1995,Cereal production (metric tons),AG.PRD.CREL.MT,27704115
+Bangladesh,BGD,1994,Cereal production (metric tons),AG.PRD.CREL.MT,26325480
+Bangladesh,BGD,1993,Cereal production (metric tons),AG.PRD.CREL.MT,28177410
+Bangladesh,BGD,1992,Cereal production (metric tons),AG.PRD.CREL.MT,28516927
+Bangladesh,BGD,1991,Cereal production (metric tons),AG.PRD.CREL.MT,28326730
+Bangladesh,BGD,1990,Cereal production (metric tons),AG.PRD.CREL.MT,27746673
+Bangladesh,BGD,1989,Cereal production (metric tons),AG.PRD.CREL.MT,27886213
+Bangladesh,BGD,1988,Cereal production (metric tons),AG.PRD.CREL.MT,24449929
+Bangladesh,BGD,1987,Cereal production (metric tons),AG.PRD.CREL.MT,24304321
+Bangladesh,BGD,1986,Cereal production (metric tons),AG.PRD.CREL.MT,24266331
+Bangladesh,BGD,1985,Cereal production (metric tons),AG.PRD.CREL.MT,24134965
+Bangladesh,BGD,1984,Cereal production (metric tons),AG.PRD.CREL.MT,23256274
+Bangladesh,BGD,1983,Cereal production (metric tons),AG.PRD.CREL.MT,22990185
+Bangladesh,BGD,1982,Cereal production (metric tons),AG.PRD.CREL.MT,22339648
+Bangladesh,BGD,1981,Cereal production (metric tons),AG.PRD.CREL.MT,21591389
+Bangladesh,BGD,1980,Cereal production (metric tons),AG.PRD.CREL.MT,21698327
+Bangladesh,BGD,1979,Cereal production (metric tons),AG.PRD.CREL.MT,19658591
+Bangladesh,BGD,1978,Cereal production (metric tons),AG.PRD.CREL.MT,19984399
+Bangladesh,BGD,1977,Cereal production (metric tons),AG.PRD.CREL.MT,19772481
+Bangladesh,BGD,1976,Cereal production (metric tons),AG.PRD.CREL.MT,17908126
+Bangladesh,BGD,1975,Cereal production (metric tons),AG.PRD.CREL.MT,19322564
+Bangladesh,BGD,1974,Cereal production (metric tons),AG.PRD.CREL.MT,17105414
+Bangladesh,BGD,1973,Cereal production (metric tons),AG.PRD.CREL.MT,18021512
+Bangladesh,BGD,1972,Cereal production (metric tons),AG.PRD.CREL.MT,15323537
+Bangladesh,BGD,1971,Cereal production (metric tons),AG.PRD.CREL.MT,15088878
+Bangladesh,BGD,1970,Cereal production (metric tons),AG.PRD.CREL.MT,16905215
+Bangladesh,BGD,1969,Cereal production (metric tons),AG.PRD.CREL.MT,18187398
+Bangladesh,BGD,1968,Cereal production (metric tons),AG.PRD.CREL.MT,17160028
+Bangladesh,BGD,1967,Cereal production (metric tons),AG.PRD.CREL.MT,16876448
+Bangladesh,BGD,1966,Cereal production (metric tons),AG.PRD.CREL.MT,14464297
+Bangladesh,BGD,1965,Cereal production (metric tons),AG.PRD.CREL.MT,15852140
+Bangladesh,BGD,1964,Cereal production (metric tons),AG.PRD.CREL.MT,15842004
+Bangladesh,BGD,1963,Cereal production (metric tons),AG.PRD.CREL.MT,16042664
+Bangladesh,BGD,1962,Cereal production (metric tons),AG.PRD.CREL.MT,13408128
+Bangladesh,BGD,1961,Cereal production (metric tons),AG.PRD.CREL.MT,14523696
+Bangladesh,BGD,2016,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,146.42
+Bangladesh,BGD,2015,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,142.79
+Bangladesh,BGD,2014,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,142.45
+Bangladesh,BGD,2013,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,138.16
+Bangladesh,BGD,2012,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,135.53
+Bangladesh,BGD,2011,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,135.07
+Bangladesh,BGD,2010,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,130.52
+Bangladesh,BGD,2009,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,123.08
+Bangladesh,BGD,2008,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,122.16
+Bangladesh,BGD,2007,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,113.06
+Bangladesh,BGD,2006,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,106.65
+Bangladesh,BGD,2005,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,103.06
+Bangladesh,BGD,2004,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,90.29
+Bangladesh,BGD,2003,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,92.86
+Bangladesh,BGD,2002,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,90.56
+Bangladesh,BGD,2001,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,88.29
+Bangladesh,BGD,2000,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,90.6
+Bangladesh,BGD,1999,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,84.26
+Bangladesh,BGD,1998,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,73.25
+Bangladesh,BGD,1997,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,70.67
+Bangladesh,BGD,1996,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,70.06
+Bangladesh,BGD,1995,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,66.21
+Bangladesh,BGD,1994,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,63.9
+Bangladesh,BGD,1993,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,67.19
+Bangladesh,BGD,1992,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,67.95
+Bangladesh,BGD,1991,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,67.33
+Bangladesh,BGD,1990,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,65.77
+Bangladesh,BGD,1989,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,65.44
+Bangladesh,BGD,1988,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.16
+Bangladesh,BGD,1987,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.1
+Bangladesh,BGD,1986,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.94
+Bangladesh,BGD,1985,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,59.15
+Bangladesh,BGD,1984,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,56.73
+Bangladesh,BGD,1983,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,56.48
+Bangladesh,BGD,1982,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,55.21
+Bangladesh,BGD,1981,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,53
+Bangladesh,BGD,1980,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,53.47
+Bangladesh,BGD,1979,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,50.26
+Bangladesh,BGD,1978,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,51.31
+Bangladesh,BGD,1977,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,50.29
+Bangladesh,BGD,1976,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,46.43
+Bangladesh,BGD,1975,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,48.96
+Bangladesh,BGD,1974,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,43.83
+Bangladesh,BGD,1973,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,46.36
+Bangladesh,BGD,1972,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.45
+Bangladesh,BGD,1971,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.53
+Bangladesh,BGD,1970,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,46.12
+Bangladesh,BGD,1969,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,49.14
+Bangladesh,BGD,1968,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,46.63
+Bangladesh,BGD,1967,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,46.18
+Bangladesh,BGD,1966,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,40.32
+Bangladesh,BGD,1965,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,42.58
+Bangladesh,BGD,1964,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.76
+Bangladesh,BGD,1963,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,41.89
+Bangladesh,BGD,1962,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,36.83
+Bangladesh,BGD,1961,Crop production index (2004-2006 = 100),AG.PRD.CROP.XD,39.19
+Bangladesh,BGD,2016,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,145.31
+Bangladesh,BGD,2015,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,141.72
+Bangladesh,BGD,2014,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,140.96
+Bangladesh,BGD,2013,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,135.01
+Bangladesh,BGD,2012,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,132.49
+Bangladesh,BGD,2011,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,131.7
+Bangladesh,BGD,2010,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,128.5
+Bangladesh,BGD,2009,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,121.31
+Bangladesh,BGD,2008,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,120.23
+Bangladesh,BGD,2007,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,112.01
+Bangladesh,BGD,2006,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,106.11
+Bangladesh,BGD,2005,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,102.9
+Bangladesh,BGD,2004,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,90.98
+Bangladesh,BGD,2003,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,92.95
+Bangladesh,BGD,2002,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,90.42
+Bangladesh,BGD,2001,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,87.89
+Bangladesh,BGD,2000,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,89.9
+Bangladesh,BGD,1999,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,84.68
+Bangladesh,BGD,1998,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,74.23
+Bangladesh,BGD,1997,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,71.5
+Bangladesh,BGD,1996,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,70.66
+Bangladesh,BGD,1995,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,67
+Bangladesh,BGD,1994,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,64.18
+Bangladesh,BGD,1993,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,66.89
+Bangladesh,BGD,1992,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,67.06
+Bangladesh,BGD,1991,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,66.22
+Bangladesh,BGD,1990,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,65.58
+Bangladesh,BGD,1989,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,64.84
+Bangladesh,BGD,1988,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,59.01
+Bangladesh,BGD,1987,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,58.09
+Bangladesh,BGD,1986,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,57.99
+Bangladesh,BGD,1985,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,57.3
+Bangladesh,BGD,1984,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,55.38
+Bangladesh,BGD,1983,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,55.06
+Bangladesh,BGD,1982,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,53.82
+Bangladesh,BGD,1981,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,51.76
+Bangladesh,BGD,1980,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,52.07
+Bangladesh,BGD,1979,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,51.1
+Bangladesh,BGD,1978,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,51.52
+Bangladesh,BGD,1977,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,49.74
+Bangladesh,BGD,1976,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,46.57
+Bangladesh,BGD,1975,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,48.77
+Bangladesh,BGD,1974,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,44.08
+Bangladesh,BGD,1973,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,45.57
+Bangladesh,BGD,1972,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,41.14
+Bangladesh,BGD,1971,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,41.94
+Bangladesh,BGD,1970,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,45.19
+Bangladesh,BGD,1969,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,47.48
+Bangladesh,BGD,1968,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,45.6
+Bangladesh,BGD,1967,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,44.55
+Bangladesh,BGD,1966,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,39.32
+Bangladesh,BGD,1965,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,41.08
+Bangladesh,BGD,1964,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,40.81
+Bangladesh,BGD,1963,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,40.53
+Bangladesh,BGD,1962,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,35.62
+Bangladesh,BGD,1961,Food production index (2004-2006 = 100),AG.PRD.FOOD.XD,37.35
+Bangladesh,BGD,2016,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,135.88
+Bangladesh,BGD,2015,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,135.27
+Bangladesh,BGD,2014,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,130.29
+Bangladesh,BGD,2013,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,124.46
+Bangladesh,BGD,2012,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,122.66
+Bangladesh,BGD,2011,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,117.92
+Bangladesh,BGD,2010,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,114.33
+Bangladesh,BGD,2009,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,108.57
+Bangladesh,BGD,2008,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,108.92
+Bangladesh,BGD,2007,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,105.65
+Bangladesh,BGD,2006,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,103.07
+Bangladesh,BGD,2005,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,101.1
+Bangladesh,BGD,2004,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,95.83
+Bangladesh,BGD,2003,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,93.56
+Bangladesh,BGD,2002,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,90.14
+Bangladesh,BGD,2001,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,86.28
+Bangladesh,BGD,2000,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,84.31
+Bangladesh,BGD,1999,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,82.19
+Bangladesh,BGD,1998,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,80.06
+Bangladesh,BGD,1997,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,80.54
+Bangladesh,BGD,1996,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,75.83
+Bangladesh,BGD,1995,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,72.56
+Bangladesh,BGD,1994,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,69.79
+Bangladesh,BGD,1993,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,66.19
+Bangladesh,BGD,1992,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,63.32
+Bangladesh,BGD,1991,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,61.23
+Bangladesh,BGD,1990,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,65.81
+Bangladesh,BGD,1989,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,62.22
+Bangladesh,BGD,1988,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,61.3
+Bangladesh,BGD,1987,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,58.84
+Bangladesh,BGD,1986,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,57.17
+Bangladesh,BGD,1985,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,55.25
+Bangladesh,BGD,1984,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,50.89
+Bangladesh,BGD,1983,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,50.87
+Bangladesh,BGD,1982,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.42
+Bangladesh,BGD,1981,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,47.95
+Bangladesh,BGD,1980,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,46.8
+Bangladesh,BGD,1979,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,64.32
+Bangladesh,BGD,1978,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,62.13
+Bangladesh,BGD,1977,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,53.83
+Bangladesh,BGD,1976,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,53.14
+Bangladesh,BGD,1975,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,50.72
+Bangladesh,BGD,1974,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.67
+Bangladesh,BGD,1973,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,48.64
+Bangladesh,BGD,1972,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.16
+Bangladesh,BGD,1971,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.05
+Bangladesh,BGD,1970,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,49.11
+Bangladesh,BGD,1969,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,47.6
+Bangladesh,BGD,1968,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,45.99
+Bangladesh,BGD,1967,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,44.69
+Bangladesh,BGD,1966,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,43.42
+Bangladesh,BGD,1965,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,42.84
+Bangladesh,BGD,1964,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,41.85
+Bangladesh,BGD,1963,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,40.19
+Bangladesh,BGD,1962,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,38.82
+Bangladesh,BGD,1961,Livestock production index (2004-2006 = 100),AG.PRD.LVSK.XD,37.11
+Bangladesh,BGD,2018,Surface area (sq. km),AG.SRF.TOTL.K2,147630
+Bangladesh,BGD,2017,Surface area (sq. km),AG.SRF.TOTL.K2,147630
+Bangladesh,BGD,2016,Surface area (sq. km),AG.SRF.TOTL.K2,147630
+Bangladesh,BGD,2015,Surface area (sq. km),AG.SRF.TOTL.K2,147630
+Bangladesh,BGD,2014,Surface area (sq. km),AG.SRF.TOTL.K2,147630
+Bangladesh,BGD,2013,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2012,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2011,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2010,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2009,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2008,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2007,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2006,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2005,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2004,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2003,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2002,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2001,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2000,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1999,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1998,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1997,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1996,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1995,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1994,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1993,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1992,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1991,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1990,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1989,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1988,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1987,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1986,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1985,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1984,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1983,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1982,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1981,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1980,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1979,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1978,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1977,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1976,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1975,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1974,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1973,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1972,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1971,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1970,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1969,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1968,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1967,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1966,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1965,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1964,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1963,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1962,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,1961,Surface area (sq. km),AG.SRF.TOTL.K2,148460
+Bangladesh,BGD,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4411.2
+Bangladesh,BGD,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4601
+Bangladesh,BGD,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4560.4
+Bangladesh,BGD,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4540.9
+Bangladesh,BGD,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4508.6
+Bangladesh,BGD,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4395.8
+Bangladesh,BGD,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4352.8
+Bangladesh,BGD,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4288.3
+Bangladesh,BGD,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4176
+Bangladesh,BGD,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4102.5
+Bangladesh,BGD,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,4020.9
+Bangladesh,BGD,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3761.4
+Bangladesh,BGD,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3681.6
+Bangladesh,BGD,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3439.4
+Bangladesh,BGD,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3479.3
+Bangladesh,BGD,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3395
+Bangladesh,BGD,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3311
+Bangladesh,BGD,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3384.4
+Bangladesh,BGD,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,3116.4
+Bangladesh,BGD,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2865.3
+Bangladesh,BGD,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2682.4
+Bangladesh,BGD,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2694.2
+Bangladesh,BGD,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2593.2
+Bangladesh,BGD,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2475.9
+Bangladesh,BGD,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2647.7
+Bangladesh,BGD,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2625.7
+Bangladesh,BGD,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2585.8
+Bangladesh,BGD,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2490.6
+Bangladesh,BGD,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2500.3
+Bangladesh,BGD,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2235.8
+Bangladesh,BGD,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2202.1
+Bangladesh,BGD,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2146.6
+Bangladesh,BGD,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2148.5
+Bangladesh,BGD,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2134.6
+Bangladesh,BGD,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2205.6
+Bangladesh,BGD,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1997.9
+Bangladesh,BGD,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1937.5
+Bangladesh,BGD,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,2005.8
+Bangladesh,BGD,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1870.9
+Bangladesh,BGD,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1926.9
+Bangladesh,BGD,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1923.7
+Bangladesh,BGD,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1769
+Bangladesh,BGD,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1831.6
+Bangladesh,BGD,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1708.4
+Bangladesh,BGD,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1785.2
+Bangladesh,BGD,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1554.5
+Bangladesh,BGD,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1583.1
+Bangladesh,BGD,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1666.2
+Bangladesh,BGD,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1724.7
+Bangladesh,BGD,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1727.9
+Bangladesh,BGD,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1681.5
+Bangladesh,BGD,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1570.8
+Bangladesh,BGD,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1670
+Bangladesh,BGD,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1691.8
+Bangladesh,BGD,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1749.4
+Bangladesh,BGD,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1514
+Bangladesh,BGD,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1681.1
+Bangladesh,BGD,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.2805078066038
+Bangladesh,BGD,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.0084049833962
+Bangladesh,BGD,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.3609116064722
+Bangladesh,BGD,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,48.0979190339623
+Bangladesh,BGD,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,48.5638286981132
+Bangladesh,BGD,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,49.7579487827472
+Bangladesh,BGD,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.6436674943396
+Bangladesh,BGD,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.9229745341509
+Bangladesh,BGD,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.8180272276662
+Bangladesh,BGD,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.2099435089442
+Bangladesh,BGD,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.3670451528302
+Bangladesh,BGD,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.3113979686084
+Bangladesh,BGD,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,30.1657256989524
+Bangladesh,BGD,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,27.9852359865385
+Bangladesh,BGD,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,26.666017824456
+Bangladesh,BGD,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,24.1592569166212
+Bangladesh,BGD,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,21.6144222564987
+Bangladesh,BGD,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,16.7341639405941
+Bangladesh,BGD,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,16.2581385661081
+Bangladesh,BGD,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,13.5293388746126
+Bangladesh,BGD,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,5.88147555920349
+Bangladesh,BGD,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.13183328204436
+Bangladesh,BGD,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,5.46790753632887
+Bangladesh,BGD,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.2388447488539
+Bangladesh,BGD,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.193821298948539
+Bangladesh,BGD,1992,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Bangladesh,BGD,1991,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,3.17101836527912
+Bangladesh,BGD,2008,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,67372.9542041387
+Bangladesh,BGD,2007,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,67098.4892881431
+Bangladesh,BGD,2006,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,66366.0110951755
+Bangladesh,BGD,2005,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,66530.3106224919
+Bangladesh,BGD,2004,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,64924.5401471171
+Bangladesh,BGD,2003,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,66844.6512857101
+Bangladesh,BGD,2002,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,66865.4961154493
+Bangladesh,BGD,2001,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65752.8416206942
+Bangladesh,BGD,2000,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65729.3045548861
+Bangladesh,BGD,1999,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65794.570866011
+Bangladesh,BGD,1998,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,63570.0470236348
+Bangladesh,BGD,1997,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65620.8892597395
+Bangladesh,BGD,1996,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65461.495772066
+Bangladesh,BGD,1995,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,64844.4393328502
+Bangladesh,BGD,1994,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65087.9002206594
+Bangladesh,BGD,1993,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,65460.552752038
+Bangladesh,BGD,1992,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,67309.7373170654
+Bangladesh,BGD,1991,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,67762.3071203496
+Bangladesh,BGD,1990,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,69366.2518711452
+Bangladesh,BGD,1989,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,70355.9566412052
+Bangladesh,BGD,1988,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,69281.5291876047
+Bangladesh,BGD,1987,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,70306.0185850673
+Bangladesh,BGD,1986,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,72440.6735848976
+Bangladesh,BGD,1985,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,71899.9219577919
+Bangladesh,BGD,1984,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,71248.61881164
+Bangladesh,BGD,1983,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,69385.389506992
+Bangladesh,BGD,1982,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,74782.8223946315
+Bangladesh,BGD,1981,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,74789.3059198574
+Bangladesh,BGD,1980,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,74167.3831612544
+Bangladesh,BGD,1979,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,79763.2577066355
+Bangladesh,BGD,1978,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,79121.8549686121
+Bangladesh,BGD,1977,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,77250.1051314669
+Bangladesh,BGD,1976,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,76920.3978161743
+Bangladesh,BGD,1975,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,79843.0258595613
+Bangladesh,BGD,1974,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,77092.5145132634
+Bangladesh,BGD,1973,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,78122.997863639
+Bangladesh,BGD,1972,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,77876.6163440905
+Bangladesh,BGD,1971,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,76564.168745181
+Bangladesh,BGD,1970,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,81572.5201803615
+Bangladesh,BGD,1969,Agricultural methane emissions (thousand metric tons of CO2 equivalent),EN.ATM.METH.AG.KT.CE,0
+Bangladesh,BGD,2008,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,68.8658980070332
+Bangladesh,BGD,2007,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,69.5324014691699
+Bangladesh,BGD,2006,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,69.8445490142828
+Bangladesh,BGD,2005,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,70.6282312264837
+Bangladesh,BGD,2004,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,70.7406218540953
+Bangladesh,BGD,2003,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,71.8803746957717
+Bangladesh,BGD,2002,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,72.6488533870306
+Bangladesh,BGD,2001,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,72.538210949315
+Bangladesh,BGD,2000,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,73.6485901573227
+Bangladesh,BGD,1999,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,73.4674364627434
+Bangladesh,BGD,1998,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,74.0695545152855
+Bangladesh,BGD,1997,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,75.2239829192052
+Bangladesh,BGD,1996,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,75.5502494302307
+Bangladesh,BGD,1995,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,75.9011051175312
+Bangladesh,BGD,1994,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,76.5866145255212
+Bangladesh,BGD,1993,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,77.173480596018
+Bangladesh,BGD,1992,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,78.203754999803
+Bangladesh,BGD,1991,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,78.8413269003704
+Bangladesh,BGD,1990,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,79.646459314208
+Bangladesh,BGD,1989,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,80.2782706103771
+Bangladesh,BGD,1988,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,80.528455379764
+Bangladesh,BGD,1987,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,81.2935771836295
+Bangladesh,BGD,1986,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,82.1876338315119
+Bangladesh,BGD,1985,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,82.5724053491724
+Bangladesh,BGD,1984,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,82.7110464765456
+Bangladesh,BGD,1983,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,82.9893329158976
+Bangladesh,BGD,1982,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,84.4069920332553
+Bangladesh,BGD,1981,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,84.9058363170318
+Bangladesh,BGD,1980,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,85.1926788928516
+Bangladesh,BGD,1979,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,86.4422154861748
+Bangladesh,BGD,1978,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,86.7429138978493
+Bangladesh,BGD,1977,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,86.8658996219139
+Bangladesh,BGD,1976,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,87.2053041866428
+Bangladesh,BGD,1975,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,87.9210346842839
+Bangladesh,BGD,1974,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,87.8425045330033
+Bangladesh,BGD,1973,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,88.1522563760555
+Bangladesh,BGD,1972,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,88.4386698010957
+Bangladesh,BGD,1971,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,88.5597661959556
+Bangladesh,BGD,1970,Agricultural methane emissions (% of total),EN.ATM.METH.AG.ZS,89.3407913270389
+Bangladesh,BGD,2008,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,18492.521264
+Bangladesh,BGD,2007,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,18278.51549262
+Bangladesh,BGD,2006,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,18061.54798
+Bangladesh,BGD,2005,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,17775.809696
+Bangladesh,BGD,2004,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,17639.719696
+Bangladesh,BGD,2003,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,17165.789154
+Bangladesh,BGD,2002,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,16832.525948
+Bangladesh,BGD,2001,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,16678.215388
+Bangladesh,BGD,2000,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,16242.42644
+Bangladesh,BGD,1999,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,16216.5371
+Bangladesh,BGD,1998,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,15125.80675
+Bangladesh,BGD,1997,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,15234.26242
+Bangladesh,BGD,1996,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,15830.97522
+Bangladesh,BGD,1995,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,15211.74836
+Bangladesh,BGD,1994,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,14079.73004
+Bangladesh,BGD,1993,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,13465.37018
+Bangladesh,BGD,1992,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,13168.58517
+Bangladesh,BGD,1991,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,12962.47423
+Bangladesh,BGD,1990,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,12216.25277
+Bangladesh,BGD,1989,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,12194.60826
+Bangladesh,BGD,1988,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,11315.05146
+Bangladesh,BGD,1987,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,10830.05863
+Bangladesh,BGD,1986,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,10391.84294
+Bangladesh,BGD,1985,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9906.38356
+Bangladesh,BGD,1984,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9842.38096
+Bangladesh,BGD,1983,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9455.56637
+Bangladesh,BGD,1982,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9161.58717
+Bangladesh,BGD,1981,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,8715.35953
+Bangladesh,BGD,1980,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,8748.14265
+Bangladesh,BGD,1979,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9775.11375
+Bangladesh,BGD,1978,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,9385.43166
+Bangladesh,BGD,1977,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,8900.13255
+Bangladesh,BGD,1976,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,8330.53979
+Bangladesh,BGD,1975,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,8062.60214
+Bangladesh,BGD,1974,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,7454.71074
+Bangladesh,BGD,1973,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,7656.83477
+Bangladesh,BGD,1972,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,7641.55363
+Bangladesh,BGD,1971,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,7284.27956
+Bangladesh,BGD,1970,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,7520.91868
+Bangladesh,BGD,1969,Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.AG.KT.CE,0
+Bangladesh,BGD,2008,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,82.9309277046293
+Bangladesh,BGD,2007,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,83.1746894181872
+Bangladesh,BGD,2006,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,83.4972684956949
+Bangladesh,BGD,2005,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,82.9214182214677
+Bangladesh,BGD,2004,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,83.2299533697249
+Bangladesh,BGD,2003,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,82.7953250598086
+Bangladesh,BGD,2002,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,82.6104901541649
+Bangladesh,BGD,2001,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,81.4609095644169
+Bangladesh,BGD,2000,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,78.2013791044776
+Bangladesh,BGD,1999,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.9285441176471
+Bangladesh,BGD,1998,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.742475997715
+Bangladesh,BGD,1997,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,72.2803831790684
+Bangladesh,BGD,1996,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.7716107895962
+Bangladesh,BGD,1995,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.893316516631
+Bangladesh,BGD,1994,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,68.520106389238
+Bangladesh,BGD,1993,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,68.7173955001218
+Bangladesh,BGD,1992,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,70.2330011209687
+Bangladesh,BGD,1991,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,71.388214425344
+Bangladesh,BGD,1990,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.4024235304022
+Bangladesh,BGD,1989,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.4301870728733
+Bangladesh,BGD,1988,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.1015223935261
+Bangladesh,BGD,1987,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.1530595785123
+Bangladesh,BGD,1986,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.6991326301337
+Bangladesh,BGD,1985,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.4360674003465
+Bangladesh,BGD,1984,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.2296391777005
+Bangladesh,BGD,1983,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.1093888407862
+Bangladesh,BGD,1982,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.1533270287751
+Bangladesh,BGD,1981,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.0645413519188
+Bangladesh,BGD,1980,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.0783407156587
+Bangladesh,BGD,1979,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,77.2833831274984
+Bangladesh,BGD,1978,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,77.323585599575
+Bangladesh,BGD,1977,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,77.7714405677755
+Bangladesh,BGD,1976,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.447169435594
+Bangladesh,BGD,1975,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.2879527402002
+Bangladesh,BGD,1974,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.2232801985502
+Bangladesh,BGD,1973,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,75.9801247700552
+Bangladesh,BGD,1972,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.920016226421
+Bangladesh,BGD,1971,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.9973818300975
+Bangladesh,BGD,1970,Agricultural nitrous oxide emissions (% of total),EN.ATM.NOXE.AG.ZS,76.4955668503828
+Bangladesh,BGD,2010,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,7.123837738
+Bangladesh,BGD,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,7.188263303
+Bangladesh,BGD,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,7.438976677
+Bangladesh,BGD,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,87.82
+Bangladesh,BGD,2018,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,35826892074.2072
+Bangladesh,BGD,2017,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,33496625379.1709
+Bangladesh,BGD,2016,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,31098972568.1707
+Bangladesh,BGD,2015,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,28838474121.0341
+Bangladesh,BGD,2014,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,26540719629.9561
+Bangladesh,BGD,2013,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,23238437547.3051
+Bangladesh,BGD,2012,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,21573710617.1092
+Bangladesh,BGD,2011,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,21624020462.3123
+Bangladesh,BGD,2010,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,19598804913.9026
+Bangladesh,BGD,2009,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,17528446091.9968
+Bangladesh,BGD,2008,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,16123160740.4168
+Bangladesh,BGD,2007,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,14176120157.8338
+Bangladesh,BGD,2006,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12951865409.4699
+Bangladesh,BGD,2005,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12896276422.7642
+Bangladesh,BGD,2004,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12544436894.8531
+Bangladesh,BGD,2003,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11919119170.9845
+Bangladesh,BGD,2002,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11264478495.5598
+Bangladesh,BGD,2001,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11796200889.5478
+Bangladesh,BGD,2000,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12124627310.6738
+Bangladesh,BGD,1999,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11617096505.8236
+Bangladesh,BGD,1998,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11290220264.3172
+Bangladesh,BGD,1997,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,11214941451.9906
+Bangladesh,BGD,1996,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,10804474327.6284
+Bangladesh,BGD,1995,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,10359209305.9701
+Bangladesh,BGD,1994,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9024856144.6384
+Bangladesh,BGD,1993,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9061453232.80423
+Bangladesh,BGD,1992,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9676763806.36605
+Bangladesh,BGD,1991,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9806409383.7535
+Bangladesh,BGD,1990,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,9634281503.25936
+Bangladesh,BGD,1989,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8796164868.26308
+Bangladesh,BGD,1988,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8324326071.43874
+Bangladesh,BGD,1987,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7936685184.58739
+Bangladesh,BGD,1986,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7048070139.58723
+Bangladesh,BGD,1985,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7353379302.28677
+Bangladesh,BGD,1984,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,6565272658.03
+Bangladesh,BGD,1983,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5466910661.11296
+Bangladesh,BGD,1982,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5824699760.96672
+Bangladesh,BGD,1981,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,6470084405.22338
+Bangladesh,BGD,1980,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5953613619.14402
+Bangladesh,BGD,1979,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,8164407614.98029
+Bangladesh,BGD,1978,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7205399623.01587
+Bangladesh,BGD,1977,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4719224479.63801
+Bangladesh,BGD,1976,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,5252244444.44444
+Bangladesh,BGD,1975,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,12049056624.6057
+Bangladesh,BGD,1974,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,7086626349.48531
+Bangladesh,BGD,1973,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4580228698.11078
+Bangladesh,BGD,1972,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3748417450
+Bangladesh,BGD,1971,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4466180155.89572
+Bangladesh,BGD,1970,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4906563909.23297
+Bangladesh,BGD,1969,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4694023271.8437
+Bangladesh,BGD,1968,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4007943132.43443
+Bangladesh,BGD,1967,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,4051301630.71183
+Bangladesh,BGD,1966,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3474042132.81254
+Bangladesh,BGD,1965,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3119808334.38595
+Bangladesh,BGD,1964,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2873828364.99186
+Bangladesh,BGD,1963,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,3039893212.56091
+Bangladesh,BGD,1962,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2897349426.55739
+Bangladesh,BGD,1961,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2793629764.01142
+Bangladesh,BGD,1960,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,2456965881.55346
+Bangladesh,BGD,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.0743171021391
+Bangladesh,BGD,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,13.4134659962126
+Bangladesh,BGD,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.0455462197579
+Bangladesh,BGD,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,14.7829964369364
+Bangladesh,BGD,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.3516208986344
+Bangladesh,BGD,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,15.4932779979784
+Bangladesh,BGD,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.1775631728154
+Bangladesh,BGD,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,16.8099867573503
+Bangladesh,BGD,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.0011812592919
+Bangladesh,BGD,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.1046290519632
+Bangladesh,BGD,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.5956955421992
+Bangladesh,BGD,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,17.8065367823955
+Bangladesh,BGD,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.0340165108542
+Bangladesh,BGD,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.5710395455964
+Bangladesh,BGD,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.2669595662859
+Bangladesh,BGD,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.8127182977042
+Bangladesh,BGD,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.5841344226366
+Bangladesh,BGD,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.8483405815259
+Bangladesh,BGD,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.7181480755923
+Bangladesh,BGD,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.6584111161909
+Bangladesh,BGD,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.5874157614312
+Bangladesh,BGD,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.2461437492233
+Bangladesh,BGD,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.266208049769
+Bangladesh,BGD,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.3043698025967
+Bangladesh,BGD,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.7255375508155
+Bangladesh,BGD,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,27.3210858173117
+Bangladesh,BGD,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.5175252361271
+Bangladesh,BGD,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.6770232352381
+Bangladesh,BGD,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.489833096135
+Bangladesh,BGD,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.5616428362567
+Bangladesh,BGD,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.3191777995595
+Bangladesh,BGD,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.6639009294804
+Bangladesh,BGD,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.3691528881675
+Bangladesh,BGD,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.0067315666687
+Bangladesh,BGD,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,34.6986320799182
+Bangladesh,BGD,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.0460304614688
+Bangladesh,BGD,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.441696330434
+Bangladesh,BGD,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.9515169189283
+Bangladesh,BGD,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.823891851665
+Bangladesh,BGD,1979,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,52.4520120556112
+Bangladesh,BGD,1978,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,54.2503083024678
+Bangladesh,BGD,1977,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,48.898056925939
+Bangladesh,BGD,1976,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,51.9144569344659
+Bangladesh,BGD,1975,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,61.9541391335466
+Bangladesh,BGD,1974,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,56.6365531249665
+Bangladesh,BGD,1973,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,56.6388529969867
+Bangladesh,BGD,1972,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,59.6099059973143
+Bangladesh,BGD,1971,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,51.0313112066753
+Bangladesh,BGD,1970,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,54.5614999911132
+Bangladesh,BGD,1969,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,55.4128189249571
+Bangladesh,BGD,1968,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,53.555739970899
+Bangladesh,BGD,1967,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,55.8524783666106
+Bangladesh,BGD,1966,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,53.9473705792359
+Bangladesh,BGD,1965,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,52.8186947728848
+Bangladesh,BGD,1964,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,53.3568366475041
+Bangladesh,BGD,1963,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,57.146668173399
+Bangladesh,BGD,1962,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,57.0185740229353
+Bangladesh,BGD,1961,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,57.9882359513306
+Bangladesh,BGD,1960,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,57.4743123752637
+Bangladesh,BGD,2010,Rural poverty gap at national poverty lines (%),SI.POV.RUGP,7.4
+Bangladesh,BGD,2005,Rural poverty gap at national poverty lines (%),SI.POV.RUGP,9.8
+Bangladesh,BGD,2000,Rural poverty gap at national poverty lines (%),SI.POV.RUGP,13.7
+Bangladesh,BGD,2010,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,35.2
+Bangladesh,BGD,2005,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,43.8
+Bangladesh,BGD,2000,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC,52.3
+Bangladesh,BGD,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,59.0320014953613
+Bangladesh,BGD,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,59.431999206543
+Bangladesh,BGD,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,59.8440017700195
+Bangladesh,BGD,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,63.3810005187988
+Bangladesh,BGD,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,63.8639984130859
+Bangladesh,BGD,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,64.3560028076172
+Bangladesh,BGD,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,64.7320022583008
+Bangladesh,BGD,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.0220031738281
+Bangladesh,BGD,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.318000793457
+Bangladesh,BGD,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.5329971313477
+Bangladesh,BGD,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,66.2470016479492
+Bangladesh,BGD,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,66.8639984130859
+Bangladesh,BGD,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.5169982910156
+Bangladesh,BGD,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,68.1940002441406
+Bangladesh,BGD,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,70.4860000610352
+Bangladesh,BGD,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,72.4810028076172
+Bangladesh,BGD,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,74.2779998779297
+Bangladesh,BGD,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,75.9609985351563
+Bangladesh,BGD,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,77.4400024414063
+Bangladesh,BGD,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,78.7819976806641
+Bangladesh,BGD,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,79.5220031738281
+Bangladesh,BGD,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,80.2799987792969
+Bangladesh,BGD,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,81.1910018920898
+Bangladesh,BGD,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,82.2760009765625
+Bangladesh,BGD,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,84.7870025634766
+Bangladesh,BGD,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,86.7959976196289
+Bangladesh,BGD,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,88.390998840332
+Bangladesh,BGD,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,89.6780014038086
+Bangladesh,BGD,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,90.6640014648438
+Bangladesh,BGD,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,31.4309997558594
+Bangladesh,BGD,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,31.9409999847412
+Bangladesh,BGD,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,32.4720001220703
+Bangladesh,BGD,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,34.560001373291
+Bangladesh,BGD,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,35.6319999694824
+Bangladesh,BGD,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,36.8050003051758
+Bangladesh,BGD,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.8470001220703
+Bangladesh,BGD,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.8520011901855
+Bangladesh,BGD,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.9290008544922
+Bangladesh,BGD,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,40.9420013427734
+Bangladesh,BGD,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.298999786377
+Bangladesh,BGD,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.4939994812012
+Bangladesh,BGD,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.7140007019043
+Bangladesh,BGD,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.9420013427734
+Bangladesh,BGD,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.492000579834
+Bangladesh,BGD,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,48.7519989013672
+Bangladesh,BGD,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,51.8390007019043
+Bangladesh,BGD,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,54.9410018920898
+Bangladesh,BGD,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,57.8530006408691
+Bangladesh,BGD,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,60.701000213623
+Bangladesh,BGD,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,60.8310012817383
+Bangladesh,BGD,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,60.6669998168945
+Bangladesh,BGD,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,60.326000213623
+Bangladesh,BGD,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,59.7470016479492
+Bangladesh,BGD,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,60.9000015258789
+Bangladesh,BGD,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,61.8009986877441
+Bangladesh,BGD,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,62.6080017089844
+Bangladesh,BGD,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,63.4910011291504
+Bangladesh,BGD,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,64.068000793457
+Bangladesh,BGD,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,39.7120018005371
+Bangladesh,BGD,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.1500015258789
+Bangladesh,BGD,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,40.5970001220703
+Bangladesh,BGD,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,42.6640014648438
+Bangladesh,BGD,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,43.435001373291
+Bangladesh,BGD,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,44.2910003662109
+Bangladesh,BGD,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.0219993591309
+Bangladesh,BGD,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.7719993591309
+Bangladesh,BGD,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,46.5740013122559
+Bangladesh,BGD,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.3059997558594
+Bangladesh,BGD,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.5379981994629
+Bangladesh,BGD,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.7039985656738
+Bangladesh,BGD,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.8819999694824
+Bangladesh,BGD,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,48.076000213623
+Bangladesh,BGD,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.2859992980957
+Bangladesh,BGD,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,54.2620010375977
+Bangladesh,BGD,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,57.0620002746582
+Bangladesh,BGD,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,59.798999786377
+Bangladesh,BGD,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,62.3409996032715
+Bangladesh,BGD,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,64.806999206543
+Bangladesh,BGD,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,65.0289993286133
+Bangladesh,BGD,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,65.0179977416992
+Bangladesh,BGD,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,64.8980026245117
+Bangladesh,BGD,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,64.6269989013672
+Bangladesh,BGD,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,66.0130004882813
+Bangladesh,BGD,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,67.0820007324219
+Bangladesh,BGD,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,67.9889984130859
+Bangladesh,BGD,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,68.8960037231445
+Bangladesh,BGD,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,69.5110015869141
+Bangladesh,BGD,2018,Rural population,SP.RUR.TOTL,102248095
+Bangladesh,BGD,2017,Rural population,SP.RUR.TOTL,102415912
+Bangladesh,BGD,2016,Rural population,SP.RUR.TOTL,102549930
+Bangladesh,BGD,2015,Rural population,SP.RUR.TOTL,102647873
+Bangladesh,BGD,2014,Rural population,SP.RUR.TOTL,102701829
+Bangladesh,BGD,2013,Rural population,SP.RUR.TOTL,102715913
+Bangladesh,BGD,2012,Rural population,SP.RUR.TOTL,102695879
+Bangladesh,BGD,2011,Rural population,SP.RUR.TOTL,102663041
+Bangladesh,BGD,2010,Rural population,SP.RUR.TOTL,102621003
+Bangladesh,BGD,2009,Rural population,SP.RUR.TOTL,102571999
+Bangladesh,BGD,2008,Rural population,SP.RUR.TOTL,102502136
+Bangladesh,BGD,2007,Rural population,SP.RUR.TOTL,102377366
+Bangladesh,BGD,2006,Rural population,SP.RUR.TOTL,102143889
+Bangladesh,BGD,2005,Rural population,SP.RUR.TOTL,101761476
+Bangladesh,BGD,2004,Rural population,SP.RUR.TOTL,101213795
+Bangladesh,BGD,2003,Rural population,SP.RUR.TOTL,100515446
+Bangladesh,BGD,2002,Rural population,SP.RUR.TOTL,99681811
+Bangladesh,BGD,2001,Rural population,SP.RUR.TOTL,98742528
+Bangladesh,BGD,2000,Rural population,SP.RUR.TOTL,97543366
+Bangladesh,BGD,1999,Rural population,SP.RUR.TOTL,96143148
+Bangladesh,BGD,1998,Rural population,SP.RUR.TOTL,94689050
+Bangladesh,BGD,1997,Rural population,SP.RUR.TOTL,93198937
+Bangladesh,BGD,1996,Rural population,SP.RUR.TOTL,91691651
+Bangladesh,BGD,1995,Rural population,SP.RUR.TOTL,90186117
+Bangladesh,BGD,1994,Rural population,SP.RUR.TOTL,88692990
+Bangladesh,BGD,1993,Rural population,SP.RUR.TOTL,87214524
+Bangladesh,BGD,1992,Rural population,SP.RUR.TOTL,85728263
+Bangladesh,BGD,1991,Rural population,SP.RUR.TOTL,84207912
+Bangladesh,BGD,1990,Rural population,SP.RUR.TOTL,82732560
+Bangladesh,BGD,1989,Rural population,SP.RUR.TOTL,81231057
+Bangladesh,BGD,1988,Rural population,SP.RUR.TOTL,79669386
+Bangladesh,BGD,1987,Rural population,SP.RUR.TOTL,78072453
+Bangladesh,BGD,1986,Rural population,SP.RUR.TOTL,76468815
+Bangladesh,BGD,1985,Rural population,SP.RUR.TOTL,74884082
+Bangladesh,BGD,1984,Rural population,SP.RUR.TOTL,73332663
+Bangladesh,BGD,1983,Rural population,SP.RUR.TOTL,71816137
+Bangladesh,BGD,1982,Rural population,SP.RUR.TOTL,70325051
+Bangladesh,BGD,1981,Rural population,SP.RUR.TOTL,68847430
+Bangladesh,BGD,1980,Rural population,SP.RUR.TOTL,67812230
+Bangladesh,BGD,1979,Rural population,SP.RUR.TOTL,66906791
+Bangladesh,BGD,1978,Rural population,SP.RUR.TOTL,65921447
+Bangladesh,BGD,1977,Rural population,SP.RUR.TOTL,64919769
+Bangladesh,BGD,1976,Rural population,SP.RUR.TOTL,63984860
+Bangladesh,BGD,1975,Rural population,SP.RUR.TOTL,63174580
+Bangladesh,BGD,1974,Rural population,SP.RUR.TOTL,62532060
+Bangladesh,BGD,1973,Rural population,SP.RUR.TOTL,61852492
+Bangladesh,BGD,1972,Rural population,SP.RUR.TOTL,61148406
+Bangladesh,BGD,1971,Rural population,SP.RUR.TOTL,60353979
+Bangladesh,BGD,1970,Rural population,SP.RUR.TOTL,59355310
+Bangladesh,BGD,1969,Rural population,SP.RUR.TOTL,58106649
+Bangladesh,BGD,1968,Rural population,SP.RUR.TOTL,56648680
+Bangladesh,BGD,1967,Rural population,SP.RUR.TOTL,55059473
+Bangladesh,BGD,1966,Rural population,SP.RUR.TOTL,53461269
+Bangladesh,BGD,1965,Rural population,SP.RUR.TOTL,51945143
+Bangladesh,BGD,1964,Rural population,SP.RUR.TOTL,50536560
+Bangladesh,BGD,1963,Rural population,SP.RUR.TOTL,49212398
+Bangladesh,BGD,1962,Rural population,SP.RUR.TOTL,47961803
+Bangladesh,BGD,1961,Rural population,SP.RUR.TOTL,46757472
+Bangladesh,BGD,1960,Rural population,SP.RUR.TOTL,45548011
+Bangladesh,BGD,2018,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.163992721602528
+Bangladesh,BGD,2017,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.130771076576516
+Bangladesh,BGD,2016,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0954620429712492
+Bangladesh,BGD,2015,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0525503574791438
+Bangladesh,BGD,2014,Rural population growth (annual %),SP.RUR.TOTL.ZG,-0.0137125448706995
+Bangladesh,BGD,2013,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0195061830369826
+Bangladesh,BGD,2012,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0319810800328371
+Bangladesh,BGD,2011,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0409559357546825
+Bangladesh,BGD,2010,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0477638130482007
+Bangladesh,BGD,2009,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.0681343873060458
+Bangladesh,BGD,2008,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.121798436843672
+Bangladesh,BGD,2007,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.228315733171648
+Bangladesh,BGD,2006,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.375089148196991
+Bangladesh,BGD,2005,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.539654241092687
+Bangladesh,BGD,2004,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.692365456059
+Bangladesh,BGD,2003,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.832818421993777
+Bangladesh,BGD,2002,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.946748791650237
+Bangladesh,BGD,2001,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.22186764897384
+Bangladesh,BGD,2000,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.44588527610371
+Bangladesh,BGD,1999,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.52398406381972
+Bangladesh,BGD,1998,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.58620491595687
+Bangladesh,BGD,1997,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.63049878217422
+Bangladesh,BGD,1996,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.6555826528183
+Bangladesh,BGD,1995,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.66946459443971
+Bangladesh,BGD,1994,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.6809979074334
+Bangladesh,BGD,1993,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.7188315478475
+Bangladesh,BGD,1992,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.78936776204448
+Bangladesh,BGD,1991,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.76756468213793
+Bangladesh,BGD,1990,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.83155873461154
+Bangladesh,BGD,1989,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.94122528399651
+Bangladesh,BGD,1988,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.02481164134348
+Bangladesh,BGD,1987,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.07542694956144
+Bangladesh,BGD,1986,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.09416660906195
+Bangladesh,BGD,1985,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.09352278390149
+Bangladesh,BGD,1984,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.08969166279241
+Bangladesh,BGD,1983,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.09811205253927
+Bangladesh,BGD,1982,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.12351826256932
+Bangladesh,BGD,1981,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.51503347943405
+Bangladesh,BGD,1980,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.34420904616179
+Bangladesh,BGD,1979,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.48366354885998
+Bangladesh,BGD,1978,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.53116517952627
+Bangladesh,BGD,1977,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.45056915402016
+Bangladesh,BGD,1976,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.27444878216376
+Bangladesh,BGD,1975,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.02226198293635
+Bangladesh,BGD,1974,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.09269961698364
+Bangladesh,BGD,1973,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.14485943083247
+Bangladesh,BGD,1972,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.30769173121043
+Bangladesh,BGD,1971,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.66852911293306
+Bangladesh,BGD,1970,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.12614883740943
+Bangladesh,BGD,1969,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.5411411697989
+Bangladesh,BGD,1968,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.84547579396944
+Bangladesh,BGD,1967,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.9456480489192
+Bangladesh,BGD,1966,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.8769228372344
+Bangladesh,BGD,1965,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.74911846860013
+Bangladesh,BGD,1964,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.65514511208752
+Bangladesh,BGD,1963,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.57406603426893
+Bangladesh,BGD,1962,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.54308514404461
+Bangladesh,BGD,1961,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.62071153886288
+Bangladesh,BGD,1960,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.67460219186089
+Bangladesh,BGD,2018,Rural population (% of total population),SP.RUR.TOTL.ZS,63.368
+Bangladesh,BGD,2017,Rural population (% of total population),SP.RUR.TOTL.ZS,64.142
+Bangladesh,BGD,2016,Rural population (% of total population),SP.RUR.TOTL.ZS,64.917
+Bangladesh,BGD,2015,Rural population (% of total population),SP.RUR.TOTL.ZS,65.692
+Bangladesh,BGD,2014,Rural population (% of total population),SP.RUR.TOTL.ZS,66.465
+Bangladesh,BGD,2013,Rural population (% of total population),SP.RUR.TOTL.ZS,67.238
+Bangladesh,BGD,2012,Rural population (% of total population),SP.RUR.TOTL.ZS,68.007
+Bangladesh,BGD,2011,Rural population (% of total population),SP.RUR.TOTL.ZS,68.775
+Bangladesh,BGD,2010,Rural population (% of total population),SP.RUR.TOTL.ZS,69.538
+Bangladesh,BGD,2009,Rural population (% of total population),SP.RUR.TOTL.ZS,70.291
+Bangladesh,BGD,2008,Rural population (% of total population),SP.RUR.TOTL.ZS,71.032
+Bangladesh,BGD,2007,Rural population (% of total population),SP.RUR.TOTL.ZS,71.763
+Bangladesh,BGD,2006,Rural population (% of total population),SP.RUR.TOTL.ZS,72.483
+Bangladesh,BGD,2005,Rural population (% of total population),SP.RUR.TOTL.ZS,73.191
+Bangladesh,BGD,2004,Rural population (% of total population),SP.RUR.TOTL.ZS,73.886
+Bangladesh,BGD,2003,Rural population (% of total population),SP.RUR.TOTL.ZS,74.571
+Bangladesh,BGD,2002,Rural population (% of total population),SP.RUR.TOTL.ZS,75.244
+Bangladesh,BGD,2001,Rural population (% of total population),SP.RUR.TOTL.ZS,75.904
+Bangladesh,BGD,2000,Rural population (% of total population),SP.RUR.TOTL.ZS,76.41
+Bangladesh,BGD,1999,Rural population (% of total population),SP.RUR.TOTL.ZS,76.798
+Bangladesh,BGD,1998,Rural population (% of total population),SP.RUR.TOTL.ZS,77.182
+Bangladesh,BGD,1997,Rural population (% of total population),SP.RUR.TOTL.ZS,77.562
+Bangladesh,BGD,1996,Rural population (% of total population),SP.RUR.TOTL.ZS,77.936
+Bangladesh,BGD,1995,Rural population (% of total population),SP.RUR.TOTL.ZS,78.307
+Bangladesh,BGD,1994,Rural population (% of total population),SP.RUR.TOTL.ZS,78.672
+Bangladesh,BGD,1993,Rural population (% of total population),SP.RUR.TOTL.ZS,79.034
+Bangladesh,BGD,1992,Rural population (% of total population),SP.RUR.TOTL.ZS,79.39
+Bangladesh,BGD,1991,Rural population (% of total population),SP.RUR.TOTL.ZS,79.743
+Bangladesh,BGD,1990,Rural population (% of total population),SP.RUR.TOTL.ZS,80.189
+Bangladesh,BGD,1989,Rural population (% of total population),SP.RUR.TOTL.ZS,80.67
+Bangladesh,BGD,1988,Rural population (% of total population),SP.RUR.TOTL.ZS,81.141
+Bangladesh,BGD,1987,Rural population (% of total population),SP.RUR.TOTL.ZS,81.605
+Bangladesh,BGD,1986,Rural population (% of total population),SP.RUR.TOTL.ZS,82.059
+Bangladesh,BGD,1985,Rural population (% of total population),SP.RUR.TOTL.ZS,82.504
+Bangladesh,BGD,1984,Rural population (% of total population),SP.RUR.TOTL.ZS,82.94
+Bangladesh,BGD,1983,Rural population (% of total population),SP.RUR.TOTL.ZS,83.369
+Bangladesh,BGD,1982,Rural population (% of total population),SP.RUR.TOTL.ZS,83.788
+Bangladesh,BGD,1981,Rural population (% of total population),SP.RUR.TOTL.ZS,84.199
+Bangladesh,BGD,1980,Rural population (% of total population),SP.RUR.TOTL.ZS,85.149
+Bangladesh,BGD,1979,Rural population (% of total population),SP.RUR.TOTL.ZS,86.299
+Bangladesh,BGD,1978,Rural population (% of total population),SP.RUR.TOTL.ZS,87.371
+Bangladesh,BGD,1977,Rural population (% of total population),SP.RUR.TOTL.ZS,88.37
+Bangladesh,BGD,1976,Rural population (% of total population),SP.RUR.TOTL.ZS,89.299
+Bangladesh,BGD,1975,Rural population (% of total population),SP.RUR.TOTL.ZS,90.164
+Bangladesh,BGD,1974,Rural population (% of total population),SP.RUR.TOTL.ZS,90.966
+Bangladesh,BGD,1973,Rural population (% of total population),SP.RUR.TOTL.ZS,91.447
+Bangladesh,BGD,1972,Rural population (% of total population),SP.RUR.TOTL.ZS,91.779
+Bangladesh,BGD,1971,Rural population (% of total population),SP.RUR.TOTL.ZS,92.099
+Bangladesh,BGD,1970,Rural population (% of total population),SP.RUR.TOTL.ZS,92.407
+Bangladesh,BGD,1969,Rural population (% of total population),SP.RUR.TOTL.ZS,92.704
+Bangladesh,BGD,1968,Rural population (% of total population),SP.RUR.TOTL.ZS,92.991
+Bangladesh,BGD,1967,Rural population (% of total population),SP.RUR.TOTL.ZS,93.267
+Bangladesh,BGD,1966,Rural population (% of total population),SP.RUR.TOTL.ZS,93.533
+Bangladesh,BGD,1965,Rural population (% of total population),SP.RUR.TOTL.ZS,93.789
+Bangladesh,BGD,1964,Rural population (% of total population),SP.RUR.TOTL.ZS,94.036
+Bangladesh,BGD,1963,Rural population (% of total population),SP.RUR.TOTL.ZS,94.273
+Bangladesh,BGD,1962,Rural population (% of total population),SP.RUR.TOTL.ZS,94.502
+Bangladesh,BGD,1961,Rural population (% of total population),SP.RUR.TOTL.ZS,94.722
+Bangladesh,BGD,1960,Rural population (% of total population),SP.RUR.TOTL.ZS,94.865
+Bangladesh,BGD,2015,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.40982289562622
+Bangladesh,BGD,2013,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.77862051691652
+Bangladesh,BGD,2012,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.58697318693866
+Bangladesh,BGD,2011,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.30248213138835
+Bangladesh,BGD,2010,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,8.1075608277893
+Bangladesh,BGD,2009,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.47626105074238
+Bangladesh,BGD,2008,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.34949807128907
+Bangladesh,BGD,2007,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.83069640654538
+Bangladesh,BGD,2006,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.0104951220935
+Bangladesh,BGD,2005,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.34670876932395
+Bangladesh,BGD,2004,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,8.46970813216954
+Bangladesh,BGD,2003,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.46485547990753
+Bangladesh,BGD,2002,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.64804381035041
+Bangladesh,BGD,2001,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.44576545377712
+Bangladesh,BGD,2000,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.06528084310307
+Bangladesh,BGD,1998,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.38826221890481
+Bangladesh,BGD,1997,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.31440869615409
+Bangladesh,BGD,1996,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,4.2935941360645
+Bangladesh,BGD,1995,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.36799990673053
+Bangladesh,BGD,1993,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,4.80068561126127
+Bangladesh,BGD,1992,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.85872352602521
+Bangladesh,BGD,1991,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,4.25081457487395
+Bangladesh,BGD,1990,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.37435947110999
+Bangladesh,BGD,1989,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.94858081778129
+Bangladesh,BGD,1988,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.58264127403107
+Bangladesh,BGD,1987,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.69934149018442
+Bangladesh,BGD,1986,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.95841585011731
+Bangladesh,BGD,1985,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.15312949226463
+Bangladesh,BGD,1984,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.86076089051343
+Bangladesh,BGD,1983,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,7.32206112640511
+Bangladesh,BGD,1982,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.34774085355079
+Bangladesh,BGD,1981,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,6.92066022785092
+Bangladesh,BGD,1980,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.92803914191216
+Bangladesh,BGD,1979,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,5.27336364122961
+Bangladesh,BGD,1978,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,11.8946936112957
+Bangladesh,BGD,1977,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,3.82066019681735
+Bangladesh,BGD,2015,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.746776955607035
+Bangladesh,BGD,2013,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.05113990116913
+Bangladesh,BGD,2012,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.39309571627652
+Bangladesh,BGD,2011,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.75281482662917
+Bangladesh,BGD,2010,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.94846094239027
+Bangladesh,BGD,2009,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.54207017195149
+Bangladesh,BGD,2008,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.52785523191695
+Bangladesh,BGD,2007,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.11958836297818
+Bangladesh,BGD,2006,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.64276839466699
+Bangladesh,BGD,2005,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.71548600888816
+Bangladesh,BGD,2004,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.25773075418516
+Bangladesh,BGD,2003,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.93583771479244
+Bangladesh,BGD,2002,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.03320677792579
+Bangladesh,BGD,2001,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.986272757453279
+Bangladesh,BGD,2000,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.44880050002803
+Bangladesh,BGD,1998,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.70431952446373
+Bangladesh,BGD,1997,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.63973735411996
+Bangladesh,BGD,1996,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.1106655828236
+Bangladesh,BGD,1995,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,2.65108512352534
+Bangladesh,BGD,1994,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,1.9851401557843
+Bangladesh,BGD,1993,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,3.23117299547718
+Bangladesh,BGD,1992,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,4.74352796579704
+Bangladesh,BGD,1991,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,5.42177823432887
+Bangladesh,BGD,1990,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,6.81123059582682
+Bangladesh,BGD,1989,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,6.75430604437468
+Bangladesh,BGD,1988,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,6.32624758287169
+Bangladesh,BGD,1987,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,8.60944877971429
+Bangladesh,BGD,1986,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,13.3610274738544
+Bangladesh,BGD,1985,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,13.2883309230697
+Bangladesh,BGD,1984,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.2670325909476
+Bangladesh,BGD,1983,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.451533374238
+Bangladesh,BGD,1982,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,15.600280204866
+Bangladesh,BGD,1981,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,16.4363358996381
+Bangladesh,BGD,1980,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,18.6995519446689
+Bangladesh,BGD,1979,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,21.1759080180603
+Bangladesh,BGD,1978,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,22.4349424104221
+Bangladesh,BGD,1977,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,27.8522811060518
